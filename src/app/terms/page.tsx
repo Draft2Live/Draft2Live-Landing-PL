@@ -5,8 +5,8 @@ import Link from 'next/link';
 export const dynamic = 'force-static';
 
 export const metadata = {
-  title: 'Terms of Service | Draft2Live',
-  description: 'Terms of Service governing the use of the Draft2Live platform for AI-powered SEO content generation and publishing.',
+  title: 'Regulamin | Draft2Live',
+  description: 'Regulamin świadczenia usług platformy Draft2Live do generowania i publikacji treści SEO przy pomocy AI.',
 };
 
 export default function TermsPage() {
@@ -15,194 +15,194 @@ export default function TermsPage() {
       <Navigation />
       <main className="min-h-screen pt-32 pb-20">
         <article className="max-w-3xl mx-auto px-4 sm:px-6">
-          <Link href="/" className="text-primary text-sm hover:underline mb-8 inline-block">&larr; Back to home</Link>
-          <h1 className="text-3xl sm:text-4xl font-bold text-white mb-4">Terms of Service</h1>
-          <p className="text-text-muted text-sm mb-12">Last updated: April 10, 2026</p>
+          <Link href="/" className="text-primary text-sm hover:underline mb-8 inline-block">&larr; Powrót na stronę główną</Link>
+          <h1 className="text-3xl sm:text-4xl font-bold text-white mb-4">Regulamin</h1>
+          <p className="text-text-muted text-sm mb-12">Ostatnia aktualizacja: 10 kwietnia 2026</p>
 
           <div className="prose-legal space-y-8 text-text-secondary text-[15px] leading-relaxed">
 
             {/* §1 */}
             <section>
-              <h2 className="text-xl font-semibold text-white mb-3">&sect;1. General Provisions</h2>
-              <p>1. These Terms of Service (hereinafter &ldquo;Terms&rdquo;) define the types, scope and conditions for the provision of electronic services by Aklima Polska sp. z o.o., with its registered office in Warsaw at ul. Post&#281;pu 15, 02-676 Warszawa, Polska, entered in the Register of Entrepreneurs of the National Court Register under KRS: 0000978391, NIP: 9512544995, REGON: 522520422, share capital: PLN 10,000 (hereinafter &ldquo;Operator&rdquo;, &ldquo;we&rdquo;), through the website draft2live.ai and all related subdomains and applications (hereinafter &ldquo;Platform&rdquo;). These Terms constitute regulations within the meaning of the Polish Act of 18 July 2002 on the Provision of Electronic Services.</p>
-              <p className="mt-3">2. By registering or using the Platform, you confirm that you have read these Terms, the <Link href="/privacy" className="text-primary hover:underline">Privacy Policy</Link> and the <Link href="/cookies" className="text-primary hover:underline">Cookie Policy</Link>, and agree to comply with them.</p>
+              <h2 className="text-xl font-semibold text-white mb-3">&sect;1. Postanowienia ogólne</h2>
+              <p>1. Niniejszy regulamin (dalej &laquo;Regulamin&raquo;) określa rodzaje, zakres oraz warunki świadczenia usług drogą elektroniczną przez Aklima Polska sp. z o.o. z siedzibą w Warszawie przy ul. Postępu 15, 02-676 Warszawa, Polska, wpisaną do Rejestru Przedsiębiorców Krajowego Rejestru Sądowego pod numerem KRS: 0000978391, NIP: 9512544995, REGON: 522520422, kapitał zakładowy: 10 000 PLN (dalej &laquo;Operator&raquo;, &laquo;my&raquo;), za pośrednictwem strony draft2live.ai oraz wszystkich powiązanych subdomen i aplikacji (dalej &laquo;Platforma&raquo;). Niniejszy Regulamin stanowi regulamin w rozumieniu polskiej ustawy z dnia 18 lipca 2002 roku o świadczeniu usług drogą elektroniczną.</p>
+              <p className="mt-3">2. Rejestrując się lub korzystając z Platformy, potwierdzają Państwo, że zapoznali się z niniejszym Regulaminem, <Link href="/privacy" className="text-primary hover:underline">Polityką prywatności</Link> oraz <Link href="/cookies" className="text-primary hover:underline">Polityką cookies</Link> i zobowiązują się do ich przestrzegania.</p>
             </section>
 
             {/* §2 */}
             <section>
-              <h2 className="text-xl font-semibold text-white mb-3">&sect;2. Definitions</h2>
+              <h2 className="text-xl font-semibold text-white mb-3">&sect;2. Definicje</h2>
               <ul className="space-y-2">
-                <li><strong className="text-white">Platform</strong> &mdash; the website located at draft2live.ai, including all subdomains and applications through which the Operator provides the Services.</li>
-                <li><strong className="text-white">Operator</strong> &mdash; Aklima Polska sp. z o.o., ul. Post&#281;pu 15, 02-676 Warszawa, KRS: 0000978391, NIP: 9512544995, REGON: 522520422, which administers the Platform.</li>
-                <li><strong className="text-white">User</strong> &mdash; a natural person aged 18 or over, a sole trader, a legal entity, or an organisational unit without legal personality, which uses the Platform.</li>
-                <li><strong className="text-white">Account</strong> &mdash; a set of resources in the Operator&apos;s IT system, identified by an individual login (email) and password, in which the User&apos;s data is stored.</li>
-                <li><strong className="text-white">Agreement</strong> &mdash; the agreement for the provision of services concluded between the Operator and the User via the Platform for an indefinite period in accordance with these Terms.</li>
-                <li><strong className="text-white">Services</strong> &mdash; the electronic services provided by the Operator through the Platform, as described in &sect;3.</li>
-                <li><strong className="text-white">Subscription</strong> &mdash; a paid access plan to the Services with a monthly or annual billing cycle.</li>
-                <li><strong className="text-white">Billing Period</strong> &mdash; the period for which the User pays for the Subscription. Payment is charged in advance on a monthly basis on the calendar day on which the Subscription commenced.</li>
+                <li><strong className="text-white">Platforma</strong> &mdash; strona internetowa pod adresem draft2live.ai, w tym wszystkie subdomeny i aplikacje, za pośrednictwem których Operator świadczy Usługi.</li>
+                <li><strong className="text-white">Operator</strong> &mdash; Aklima Polska sp. z o.o., ul. Postępu 15, 02-676 Warszawa, KRS: 0000978391, NIP: 9512544995, REGON: 522520422, administrująca Platformą.</li>
+                <li><strong className="text-white">Użytkownik</strong> &mdash; osoba fizyczna w wieku co najmniej 18 lat, osoba prowadząca jednoosobową działalność gospodarczą, osoba prawna lub jednostka organizacyjna nieposiadająca osobowości prawnej, korzystająca z Platformy.</li>
+                <li><strong className="text-white">Konto</strong> &mdash; zbiór zasobów w systemie informatycznym Operatora, identyfikowany indywidualnym loginem (email) i hasłem, w którym przechowywane są dane Użytkownika.</li>
+                <li><strong className="text-white">Umowa</strong> &mdash; umowa o świadczenie usług zawarta między Operatorem a Użytkownikiem za pośrednictwem Platformy na czas nieokreślony zgodnie z niniejszym Regulaminem.</li>
+                <li><strong className="text-white">Usługi</strong> &mdash; usługi świadczone drogą elektroniczną przez Operatora za pośrednictwem Platformy, opisane w &sect;3.</li>
+                <li><strong className="text-white">Subskrypcja</strong> &mdash; płatny plan dostępu do Usług z miesięcznym lub rocznym cyklem rozliczeniowym.</li>
+                <li><strong className="text-white">Okres rozliczeniowy</strong> &mdash; okres, za jaki Użytkownik opłaca Subskrypcję. Płatność jest pobierana z góry co miesiąc w tym samym dniu kalendarzowym, w którym rozpoczęto Subskrypcję.</li>
               </ul>
             </section>
 
             {/* §3 */}
             <section>
-              <h2 className="text-xl font-semibold text-white mb-3">&sect;3. Description of Services</h2>
-              <p>1. Draft2Live is an AI platform for automating the full cycle of content creation, SEO optimisation and publishing. The Platform provides the following Services:</p>
+              <h2 className="text-xl font-semibold text-white mb-3">&sect;3. Opis Usług</h2>
+              <p>1. Draft2Live to platforma AI służąca do automatyzacji pełnego cyklu tworzenia treści, optymalizacji SEO i publikacji. Platforma świadczy następujące Usługi:</p>
               <ul className="list-disc list-inside mt-3 space-y-1.5">
-                <li>Multilingual AI-powered text article generation</li>
-                <li>AI image generation and optimisation</li>
-                <li>SERP analysis and keyword research</li>
-                <li>Comprehensive SEO content optimisation</li>
-                <li>Automated publishing to CMS platforms (WordPress, Drupal, Shopify)</li>
-                <li>Automated article translation</li>
-                <li>SEO audit of generated content</li>
+                <li>Wielojęzyczne generowanie artykułów tekstowych z wykorzystaniem AI</li>
+                <li>Generowanie i optymalizacja obrazów z wykorzystaniem AI</li>
+                <li>Analiza SERP i badanie słów kluczowych</li>
+                <li>Kompleksowa optymalizacja SEO treści</li>
+                <li>Automatyczna publikacja na platformach CMS (WordPress, Drupal, Shopify)</li>
+                <li>Automatyczne tłumaczenie artykułów</li>
+                <li>Audyt SEO wygenerowanych treści</li>
               </ul>
-              <p className="mt-3">2. The Platform is a subscription-based service. The functionality of each pricing plan is described on the <Link href="/#pricing" className="text-primary hover:underline">pricing page</Link>.</p>
-              <p className="mt-3">3. The Operator shall use its best efforts to provide accurate data; however, certain results of analysis and generation may be inaccurate or incomplete.</p>
+              <p className="mt-3">2. Platforma działa w modelu subskrypcyjnym. Funkcjonalność każdego planu cenowego opisana jest na <Link href="/#pricing" className="text-primary hover:underline">stronie cennika</Link>.</p>
+              <p className="mt-3">3. Operator dokłada wszelkich starań, aby dostarczać dokładne dane; jednakże niektóre wyniki analiz i generowania mogą być nieprecyzyjne lub niekompletne.</p>
             </section>
 
             {/* §4 */}
             <section>
-              <h2 className="text-xl font-semibold text-white mb-3">&sect;4. Registration and Account</h2>
-              <p>1. Creating an Account on the Platform is free of charge.</p>
-              <p className="mt-3">2. To register, the User shall complete the registration form by providing an email address and creating a password, and then confirm acceptance of these Terms.</p>
-              <p className="mt-3">3. The Agreement is deemed concluded upon the User&apos;s confirmation of registration.</p>
-              <p className="mt-3">4. The User undertakes to:</p>
+              <h2 className="text-xl font-semibold text-white mb-3">&sect;4. Rejestracja i Konto</h2>
+              <p>1. Założenie Konta na Platformie jest bezpłatne.</p>
+              <p className="mt-3">2. W celu rejestracji Użytkownik wypełnia formularz rejestracyjny, podając adres email i tworząc hasło, a następnie potwierdza akceptację niniejszego Regulaminu.</p>
+              <p className="mt-3">3. Umowę uważa się za zawartą z chwilą potwierdzenia rejestracji przez Użytkownika.</p>
+              <p className="mt-3">4. Użytkownik zobowiązuje się:</p>
               <ul className="list-disc list-inside mt-2 space-y-1.5">
-                <li>Provide accurate and up-to-date information upon registration</li>
-                <li>Maintain the confidentiality of their password and login credentials</li>
-                <li>Not transfer access to the Account to third parties without the Operator&apos;s consent</li>
-                <li>Immediately report any unauthorised access to the Account</li>
+                <li>Podawać prawdziwe i aktualne informacje podczas rejestracji</li>
+                <li>Zachować poufność hasła i danych logowania</li>
+                <li>Nie przekazywać dostępu do Konta osobom trzecim bez zgody Operatora</li>
+                <li>Niezwłocznie zgłaszać każdy nieautoryzowany dostęp do Konta</li>
               </ul>
-              <p className="mt-3">5. Each User may hold only one Account. Creating additional accounts requires the Operator&apos;s consent.</p>
-              <p className="mt-3">6. The User bears full responsibility for all activity carried out through their Account.</p>
+              <p className="mt-3">5. Każdy Użytkownik może posiadać tylko jedno Konto. Tworzenie dodatkowych kont wymaga zgody Operatora.</p>
+              <p className="mt-3">6. Użytkownik ponosi pełną odpowiedzialność za wszystkie działania wykonane za pośrednictwem swojego Konta.</p>
             </section>
 
             {/* §5 */}
             <section>
-              <h2 className="text-xl font-semibold text-white mb-3">&sect;5. Conditions of Use</h2>
-              <p>1. The User is obliged to use the Platform in accordance with these Terms, applicable law and generally accepted standards.</p>
-              <p className="mt-3">2. The following are prohibited:</p>
+              <h2 className="text-xl font-semibold text-white mb-3">&sect;5. Warunki korzystania</h2>
+              <p>1. Użytkownik zobowiązany jest korzystać z Platformy zgodnie z niniejszym Regulaminem, obowiązującym prawem oraz powszechnie przyjętymi standardami.</p>
+              <p className="mt-3">2. Zabronione jest:</p>
               <ul className="list-disc list-inside mt-2 space-y-1.5">
-                <li>Using the Platform to generate unlawful, harmful or discriminatory content</li>
-                <li>Attempting to circumvent the Platform&apos;s technical restrictions or security measures</li>
-                <li>Using automated means for mass access without the Operator&apos;s permission</li>
-                <li>Infringing the intellectual property rights of third parties</li>
-                <li>Introducing malicious software (viruses, bots, spyware, etc.)</li>
-                <li>Transferring or sharing passwords with other Users</li>
+                <li>Korzystanie z Platformy w celu generowania treści bezprawnych, szkodliwych lub dyskryminujących</li>
+                <li>Próby obejścia ograniczeń technicznych Platformy lub środków bezpieczeństwa</li>
+                <li>Korzystanie ze zautomatyzowanych narzędzi do masowego dostępu bez zezwolenia Operatora</li>
+                <li>Naruszanie praw własności intelektualnej osób trzecich</li>
+                <li>Wprowadzanie szkodliwego oprogramowania (wirusów, botów, oprogramowania szpiegującego itp.)</li>
+                <li>Przekazywanie lub udostępnianie haseł innym Użytkownikom</li>
               </ul>
-              <p className="mt-3">3. A User who has breached the provisions of these Terms may receive a warning from the Operator. In the event of continued violations, the Operator reserves the right to delete the Account, which is equivalent to immediate termination of the Agreement.</p>
+              <p className="mt-3">3. Użytkownik, który naruszył postanowienia niniejszego Regulaminu, może otrzymać ostrzeżenie od Operatora. W przypadku dalszych naruszeń Operator zastrzega sobie prawo do usunięcia Konta, co jest równoznaczne z natychmiastowym rozwiązaniem Umowy.</p>
             </section>
 
             {/* §6 */}
             <section>
-              <h2 className="text-xl font-semibold text-white mb-3">&sect;6. Pricing and Payment</h2>
-              <p>1. After creating an Account, the User may purchase a Subscription in accordance with the tariffs set out on the <Link href="/#pricing" className="text-primary hover:underline">pricing page</Link>.</p>
-              <p className="mt-3">2. The Subscription is paid in advance for each Billing Period. The Subscription automatically renews until cancelled by the User.</p>
-              <p className="mt-3">3. Payments are processed through an online payment platform. Credit/debit card data is processed exclusively by the payment provider and is not stored on the Operator&apos;s servers.</p>
-              <p className="mt-3">4. Unused limits within a Billing Period do not accumulate and are not carried over to the next period.</p>
-              <p className="mt-3">5. Prices may change, of which the Operator shall give notice at least 30 days in advance.</p>
-              <p className="mt-3">6. If the User cancels the Subscription during a Billing Period, access to the Services is retained until the end of the paid period.</p>
+              <h2 className="text-xl font-semibold text-white mb-3">&sect;6. Cennik i płatności</h2>
+              <p>1. Po założeniu Konta Użytkownik może zakupić Subskrypcję zgodnie z cennikiem zamieszczonym na <Link href="/#pricing" className="text-primary hover:underline">stronie cennika</Link>.</p>
+              <p className="mt-3">2. Subskrypcja jest opłacana z góry za każdy Okres rozliczeniowy. Subskrypcja odnawia się automatycznie do momentu jej anulowania przez Użytkownika.</p>
+              <p className="mt-3">3. Płatności są obsługiwane za pośrednictwem internetowej platformy płatniczej. Dane kart kredytowych/debetowych są przetwarzane wyłącznie przez dostawcę płatności i nie są przechowywane na serwerach Operatora.</p>
+              <p className="mt-3">4. Niewykorzystane limity w ramach Okresu rozliczeniowego nie są kumulowane i nie przechodzą na kolejny okres.</p>
+              <p className="mt-3">5. Ceny mogą ulec zmianie; Operator powiadamia o tym z wyprzedzeniem co najmniej 30 dni.</p>
+              <p className="mt-3">6. Jeśli Użytkownik anuluje Subskrypcję w trakcie Okresu rozliczeniowego, dostęp do Usług zostaje utrzymany do końca opłaconego okresu.</p>
             </section>
 
             {/* §7 */}
             <section>
-              <h2 className="text-xl font-semibold text-white mb-3">&sect;7. AI-Generated Content</h2>
-              <p>The User understands and accepts that:</p>
+              <h2 className="text-xl font-semibold text-white mb-3">&sect;7. Treści generowane przez AI</h2>
+              <p>Użytkownik rozumie i akceptuje, że:</p>
               <ul className="list-disc list-inside mt-3 space-y-1.5">
-                <li>Content is generated by AI models and may contain inaccuracies</li>
-                <li>The User is responsible for reviewing and editing content before publication</li>
-                <li>The Platform does not guarantee any specific SEO ranking results</li>
-                <li>The quality of generation depends on the input data and settings provided</li>
-                <li>The Operator shall not be liable for the improper use of generated content by the User or by third parties</li>
+                <li>Treści są generowane przez modele AI i mogą zawierać niedokładności</li>
+                <li>Użytkownik odpowiada za sprawdzenie i edycję treści przed publikacją</li>
+                <li>Platforma nie gwarantuje konkretnych wyników rankingu SEO</li>
+                <li>Jakość generowania zależy od podanych danych wejściowych i ustawień</li>
+                <li>Operator nie ponosi odpowiedzialności za niewłaściwe wykorzystanie wygenerowanych treści przez Użytkownika lub osoby trzecie</li>
               </ul>
             </section>
 
             {/* §8 */}
             <section>
-              <h2 className="text-xl font-semibold text-white mb-3">&sect;8. Intellectual Property</h2>
-              <p>1. All rights to the Platform, including its design, software, trademarks, logos and other materials, belong to Aklima Polska sp. z o.o. or its licensors.</p>
-              <p className="mt-3">2. Copying, modifying, distributing or using the Platform&apos;s materials for commercial or advertising purposes without the Operator&apos;s written consent is prohibited.</p>
-              <p className="mt-3">3. <strong className="text-white">User Content:</strong> The User retains rights to the content generated through the Platform, provided that these Terms are complied with and the applicable pricing plan has been paid.</p>
-              <p className="mt-3">4. <strong className="text-white">Uploaded Materials:</strong> By uploading documents to the Knowledge Base, the User warrants that they hold the necessary rights to such materials.</p>
+              <h2 className="text-xl font-semibold text-white mb-3">&sect;8. Własność intelektualna</h2>
+              <p>1. Wszelkie prawa do Platformy, w tym jej design, oprogramowanie, znaki towarowe, logotypy i inne materiały, należą do Aklima Polska sp. z o.o. lub jej licencjodawców.</p>
+              <p className="mt-3">2. Kopiowanie, modyfikowanie, rozpowszechnianie lub wykorzystywanie materiałów Platformy do celów komercyjnych lub reklamowych bez pisemnej zgody Operatora jest zabronione.</p>
+              <p className="mt-3">3. <strong className="text-white">Treści Użytkownika:</strong> Użytkownik zachowuje prawa do treści wygenerowanych za pośrednictwem Platformy, pod warunkiem przestrzegania niniejszego Regulaminu i opłacenia obowiązującego planu cenowego.</p>
+              <p className="mt-3">4. <strong className="text-white">Wgrane materiały:</strong> wgrywając dokumenty do Bazy wiedzy, Użytkownik gwarantuje, że posiada niezbędne prawa do takich materiałów.</p>
             </section>
 
             {/* §9 */}
             <section>
-              <h2 className="text-xl font-semibold text-white mb-3">&sect;9. Complaints</h2>
-              <p>1. A User who considers that the Services are not being provided in accordance with the established rules may file a complaint.</p>
-              <p className="mt-3">2. Complaints shall be sent by email to: <a href="mailto:info@draft2live.ai" className="text-primary hover:underline">info@draft2live.ai</a>.</p>
-              <p className="mt-3">3. A complaint shall contain: first name and surname, email address, description of the breach and the expected manner of resolution.</p>
-              <p className="mt-3">4. The Operator shall review the complaint and provide a response within 14 days from the date of its receipt. The response shall be sent to the User&apos;s email address.</p>
-              <p className="mt-3">5. If the complaint does not contain sufficient information, the Operator may request additional data before providing a response.</p>
+              <h2 className="text-xl font-semibold text-white mb-3">&sect;9. Reklamacje</h2>
+              <p>1. Użytkownik, który uważa, że Usługi nie są świadczone zgodnie z ustalonymi zasadami, może złożyć reklamację.</p>
+              <p className="mt-3">2. Reklamacje należy przesyłać na adres email: <a href="mailto:info@draft2live.ai" className="text-primary hover:underline">info@draft2live.ai</a>.</p>
+              <p className="mt-3">3. Reklamacja powinna zawierać: imię i nazwisko, adres email, opis naruszenia oraz oczekiwany sposób rozstrzygnięcia.</p>
+              <p className="mt-3">4. Operator rozpatruje reklamację i udziela odpowiedzi w terminie 14 dni od jej otrzymania. Odpowiedź jest przesyłana na adres email Użytkownika.</p>
+              <p className="mt-3">5. Jeśli reklamacja nie zawiera wystarczających informacji, Operator może poprosić o dodatkowe dane przed udzieleniem odpowiedzi.</p>
             </section>
 
             {/* §10 */}
             <section>
-              <h2 className="text-xl font-semibold text-white mb-3">&sect;10. Right of Withdrawal from the Agreement</h2>
-              <p>1. A User who is a consumer within the meaning of Article 22&sup1; of the Polish Civil Code has the right to withdraw from the Agreement concluded at a distance, without giving any reason, within 14 days from the conclusion of the Agreement.</p>
-              <p className="mt-3">2. To exercise the right of withdrawal, the User shall send an appropriate statement to <a href="mailto:info@draft2live.ai" className="text-primary hover:underline">info@draft2live.ai</a> within the 14-day period.</p>
-              <p className="mt-3">3. The right of withdrawal does not apply if:</p>
+              <h2 className="text-xl font-semibold text-white mb-3">&sect;10. Prawo do odstąpienia od Umowy</h2>
+              <p>1. Użytkownik będący konsumentem w rozumieniu art. 22&sup1; Kodeksu cywilnego ma prawo odstąpić od Umowy zawartej na odległość, bez podawania przyczyny, w terminie 14 dni od jej zawarcia.</p>
+              <p className="mt-3">2. Aby skorzystać z prawa odstąpienia, Użytkownik składa odpowiednie oświadczenie na adres <a href="mailto:info@draft2live.ai" className="text-primary hover:underline">info@draft2live.ai</a> w ciągu 14-dniowego terminu.</p>
+              <p className="mt-3">3. Prawo do odstąpienia nie przysługuje, jeżeli:</p>
               <ul className="list-disc list-inside mt-2 space-y-1.5">
-                <li>The provision of services has commenced with the express consent of the consumer, who was informed of the loss of the right of withdrawal upon full performance of the service</li>
-                <li>The provision of digital content not supplied on a tangible medium has commenced with the consumer&apos;s prior consent</li>
+                <li>Świadczenie usług rozpoczęło się za wyraźną zgodą konsumenta, który został poinformowany o utracie prawa do odstąpienia po pełnym wykonaniu usługi</li>
+                <li>Świadczenie treści cyfrowych niezapisanych na nośniku materialnym rozpoczęło się za uprzednią zgodą konsumenta</li>
               </ul>
-              <p className="mt-3">4. Refunds shall be made within 14 days of receipt of the withdrawal statement, using the same payment method.</p>
+              <p className="mt-3">4. Zwroty są dokonywane w ciągu 14 dni od otrzymania oświadczenia o odstąpieniu, tym samym sposobem płatności.</p>
             </section>
 
             {/* §11 */}
             <section>
-              <h2 className="text-xl font-semibold text-white mb-3">&sect;11. Limitation of Liability</h2>
-              <p>1. The Platform is provided &ldquo;as is&rdquo;. To the extent permitted by applicable law:</p>
+              <h2 className="text-xl font-semibold text-white mb-3">&sect;11. Ograniczenie odpowiedzialności</h2>
+              <p>1. Platforma jest dostarczana &laquo;tak jak jest&raquo;. W zakresie dozwolonym przez obowiązujące prawo:</p>
               <ul className="list-disc list-inside mt-2 space-y-1.5">
-                <li>The Operator shall not be liable for actions of Users that do not comply with these Terms</li>
-                <li>The Operator shall not be liable for damages caused by the provision of incomplete or incorrect data by the User</li>
-                <li>The Operator shall not be liable for indirect, incidental or consequential damages</li>
-                <li>The Operator&apos;s total liability shall be limited to the amount paid by the User over the preceding 12 months</li>
-                <li>The Operator shall not be liable for damages caused by force majeure</li>
+                <li>Operator nie ponosi odpowiedzialności za działania Użytkowników niezgodne z niniejszym Regulaminem</li>
+                <li>Operator nie ponosi odpowiedzialności za szkody spowodowane przekazaniem przez Użytkownika niekompletnych lub nieprawidłowych danych</li>
+                <li>Operator nie ponosi odpowiedzialności za szkody pośrednie, przypadkowe ani wtórne</li>
+                <li>Łączna odpowiedzialność Operatora jest ograniczona do kwoty zapłaconej przez Użytkownika w ciągu poprzednich 12 miesięcy</li>
+                <li>Operator nie ponosi odpowiedzialności za szkody wywołane siłą wyższą</li>
               </ul>
-              <p className="mt-3">2. These limitations do not apply in cases where limitation of liability is prohibited by mandatory provisions of EU law or Polish law.</p>
+              <p className="mt-3">2. Powyższe ograniczenia nie mają zastosowania w przypadkach, gdy ograniczenie odpowiedzialności jest zabronione bezwzględnie obowiązującymi przepisami prawa UE lub prawa polskiego.</p>
             </section>
 
             {/* §12 */}
             <section>
-              <h2 className="text-xl font-semibold text-white mb-3">&sect;12. Termination of the Agreement</h2>
-              <p>1. The User may delete their Account at any time through profile settings or by sending a request to <a href="mailto:info@draft2live.ai" className="text-primary hover:underline">info@draft2live.ai</a>.</p>
-              <p className="mt-3">2. The Operator is entitled to terminate the Agreement upon 14 days&apos; notice sent to the User&apos;s email address.</p>
-              <p className="mt-3">3. After Account deletion, personal data shall be processed in accordance with the <Link href="/privacy" className="text-primary hover:underline">Privacy Policy</Link>.</p>
+              <h2 className="text-xl font-semibold text-white mb-3">&sect;12. Rozwiązanie Umowy</h2>
+              <p>1. Użytkownik może w każdej chwili usunąć swoje Konto za pośrednictwem ustawień profilu lub wysyłając żądanie na adres <a href="mailto:info@draft2live.ai" className="text-primary hover:underline">info@draft2live.ai</a>.</p>
+              <p className="mt-3">2. Operator ma prawo wypowiedzieć Umowę z zachowaniem 14-dniowego okresu wypowiedzenia przesłanego na adres email Użytkownika.</p>
+              <p className="mt-3">3. Po usunięciu Konta dane osobowe są przetwarzane zgodnie z <Link href="/privacy" className="text-primary hover:underline">Polityką prywatności</Link>.</p>
             </section>
 
             {/* §13 */}
             <section>
-              <h2 className="text-xl font-semibold text-white mb-3">&sect;13. Protection of Personal Data</h2>
-              <p>1. The detailed conditions for the protection of personal data are set out in the <Link href="/privacy" className="text-primary hover:underline">Privacy Policy</Link>.</p>
-              <p className="mt-3">2. The processing of personal data is governed by the provisions of Regulation (EU) 2016/679 (GDPR) and the Polish Act of 10 May 2018 on the Protection of Personal Data.</p>
-              <p className="mt-3">3. The controller of personal data is Aklima Polska sp. z o.o.</p>
+              <h2 className="text-xl font-semibold text-white mb-3">&sect;13. Ochrona danych osobowych</h2>
+              <p>1. Szczegółowe warunki ochrony danych osobowych określa <Link href="/privacy" className="text-primary hover:underline">Polityka prywatności</Link>.</p>
+              <p className="mt-3">2. Przetwarzanie danych osobowych regulują przepisy Rozporządzenia (UE) 2016/679 (RODO) oraz polskiej ustawy z dnia 10 maja 2018 roku o ochronie danych osobowych.</p>
+              <p className="mt-3">3. Administratorem danych osobowych jest Aklima Polska sp. z o.o.</p>
             </section>
 
             {/* §14 */}
             <section>
-              <h2 className="text-xl font-semibold text-white mb-3">&sect;14. Amendments to the Terms</h2>
-              <p>The Operator may update these Terms. The Operator shall notify Users of material changes by email or through the Platform interface at least 30 days before such changes take effect. Continued use of the Platform after the Terms have been amended constitutes the User&apos;s acceptance of the updated version.</p>
+              <h2 className="text-xl font-semibold text-white mb-3">&sect;14. Zmiany Regulaminu</h2>
+              <p>Operator może aktualizować niniejszy Regulamin. Operator powiadamia Użytkowników o istotnych zmianach drogą mailową lub poprzez interfejs Platformy co najmniej 30 dni przed wejściem zmian w życie. Dalsze korzystanie z Platformy po zmianie Regulaminu oznacza akceptację przez Użytkownika zaktualizowanej wersji.</p>
             </section>
 
             {/* §15 */}
             <section>
-              <h2 className="text-xl font-semibold text-white mb-3">&sect;15. Governing Law and Final Provisions</h2>
-              <p>1. These Terms are governed by the laws of the European Union and the Republic of Poland.</p>
-              <p className="mt-3">2. Any disputes shall be resolved by the courts of competent jurisdiction in the Republic of Poland having jurisdiction over the Operator&apos;s registered office, unless otherwise provided by mandatory consumer protection laws.</p>
-              <p className="mt-3">3. These Terms are available free of charge on the Platform, where they may be viewed, downloaded and printed.</p>
-              <p className="mt-3">4. Matters not regulated by these Terms shall be governed by the relevant provisions of the laws of the Republic of Poland.</p>
+              <h2 className="text-xl font-semibold text-white mb-3">&sect;15. Prawo właściwe i postanowienia końcowe</h2>
+              <p>1. Niniejszy Regulamin podlega prawu Unii Europejskiej oraz prawu Rzeczypospolitej Polskiej.</p>
+              <p className="mt-3">2. Wszelkie spory rozstrzygane są przez sądy właściwe w Rzeczypospolitej Polskiej według siedziby Operatora, chyba że bezwzględnie obowiązujące przepisy o ochronie konsumentów stanowią inaczej.</p>
+              <p className="mt-3">3. Niniejszy Regulamin jest bezpłatnie dostępny na Platformie, gdzie można go przeglądać, pobierać i drukować.</p>
+              <p className="mt-3">4. W sprawach nieuregulowanych niniejszym Regulaminem stosuje się odpowiednie przepisy prawa Rzeczypospolitej Polskiej.</p>
             </section>
 
             {/* §16 */}
             <section>
-              <h2 className="text-xl font-semibold text-white mb-3">&sect;16. Contact</h2>
+              <h2 className="text-xl font-semibold text-white mb-3">&sect;16. Kontakt</h2>
               <ul className="list-none mt-3 space-y-1.5">
                 <li><strong className="text-white">Operator:</strong> Aklima Polska sp. z o.o.</li>
-                <li><strong className="text-white">Address:</strong> ul. Post&#281;pu 15, 02-676 Warszawa, Polska</li>
+                <li><strong className="text-white">Adres:</strong> ul. Postępu 15, 02-676 Warszawa, Polska</li>
                 <li><strong className="text-white">KRS:</strong> 0000978391 | <strong className="text-white">NIP:</strong> 9512544995 | <strong className="text-white">REGON:</strong> 522520422</li>
                 <li><strong className="text-white">Email:</strong> <a href="mailto:info@draft2live.ai" className="text-primary hover:underline">info@draft2live.ai</a></li>
-                <li><strong className="text-white">Website:</strong> <a href="https://draft2live.ai" className="text-primary hover:underline">draft2live.ai</a></li>
+                <li><strong className="text-white">Strona:</strong> <a href="https://draft2live.ai" className="text-primary hover:underline">draft2live.ai</a></li>
               </ul>
             </section>
           </div>

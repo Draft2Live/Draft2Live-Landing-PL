@@ -1,462 +1,463 @@
 {
   "metadata": {
-    "title": "Draft2Live — AI SEO Article Generator that Publishes to Your CMS",
-    "description": "AI generates SEO articles and publishes directly to your WordPress, Drupal, or Shopify Blog. SERP research, tone of voice control, hands-off CMS publishing.",
-    "ogTitle": "Draft2Live: AI for SEO content that publishes itself",
-    "ogDescription": "Enter a keyword. AI runs SERP research, drafts in your tone, and publishes to your CMS — done before your coffee gets cold.",
-    "twitterTitle": "Draft2Live: AI for SEO content",
-    "twitterDescription": "From keyword to a live SEO article — done before your coffee. SERP analysis, tone of voice, one-click CMS publishing."
+    "title": "Draft2Live — Generator artykułów SEO z AI i publikacją w Twoim CMS",
+    "description": "AI tworzy artykuły SEO i publikuje je bezpośrednio w Twoim WordPressie, Drupalu lub Shopify Blog. Analiza SERP, kontrola tonu wypowiedzi, w pełni automatyczna publikacja w CMS.",
+    "ogTitle": "Draft2Live: AI dla treści SEO, które publikują się same",
+    "ogDescription": "Wpisz słowo kluczowe. AI analizuje SERP, pisze w Twoim stylu i publikuje w CMS — wszystko gotowe, zanim wystygnie kawa.",
+    "twitterTitle": "Draft2Live: AI dla treści SEO",
+    "twitterDescription": "Od słowa kluczowego do opublikowanego artykułu SEO — szybciej, niż wystygnie kawa. Analiza SERP, ton głosu, publikacja w CMS jednym kliknięciem.",
+    "keywords": "AI SEO, generator artykułów SEO, AI do treści, analiza SERP, automatyczna publikacja, WordPress, Drupal, Shopify, ton głosu, audyt SEO, content marketing, generowanie artykułów sztuczną inteligencją, Draft2Live"
   },
   "jsonLd": {
-    "orgDescription": "AI platform that turns a keyword into an SEO-optimized article published on your website — hands-off, end-to-end."
+    "orgDescription": "Platforma AI, która zamienia słowo kluczowe w zoptymalizowany artykuł SEO opublikowany na Twojej stronie — w pełni automatycznie, od początku do końca."
   },
   "nav": {
-    "ariaLabel": "Main navigation",
-    "skipToContent": "Skip to content",
+    "ariaLabel": "Główna nawigacja",
+    "skipToContent": "Przejdź do treści",
     "menu": "Menu",
-    "cta": "Start free",
+    "cta": "Zacznij za darmo",
     "links": {
-      "features": "Features",
-      "howItWorks": "How It Works",
-      "pricing": "Pricing",
+      "features": "Funkcje",
+      "howItWorks": "Jak to działa",
+      "pricing": "Cennik",
       "faq": "FAQ"
     }
   },
   "hero": {
-    "badge": "5,000+ articles published · 45 languages · WordPress + Drupal + Shopify",
-    "titleLine1": "From keyword to",
-    "titleLine2Prefix": "a live",
-    "titleLine3": "done before your coffee.",
-    "typingWords": ["SEO article", "blog post", "how-to guide", "product review", "Shopify Blog post"],
-    "subtitle": "SERP research in your target country, on-brand drafting, SEO audit, and one-click publishing to WordPress, Drupal, or Shopify Blog — hands-off.",
-    "searchPlaceholder": "Enter a keyword for your article...",
-    "searchAriaLabel": "Keyword for article",
-    "searchCta": "Write article →",
-    "exampleLabel": "For example:",
+    "badge": "5000+ opublikowanych artykułów · 45 języków · WordPress + Drupal + Shopify",
+    "titleLine1": "Od słowa kluczowego do",
+    "titleLine2Prefix": "opublikowanego",
+    "titleLine3": "zanim wystygnie kawa.",
+    "typingWords": ["artykułu SEO", "wpisu na blog", "poradnika", "recenzji produktu", "wpisu na Shopify Blog"],
+    "subtitle": "Analiza SERP w Twoim kraju docelowym, pisanie w Twoim stylu, audyt SEO i publikacja jednym kliknięciem w WordPressie, Drupalu lub Shopify Blog — w pełni automatycznie.",
+    "searchPlaceholder": "Wpisz słowo kluczowe artykułu...",
+    "searchAriaLabel": "Słowo kluczowe artykułu",
+    "searchCta": "Napisz artykuł →",
+    "exampleLabel": "Na przykład:",
     "chipExamples": [
-      "how to choose a CRM",
-      "SEO for e-commerce",
-      "laptop reviews 2026",
-      "SaaS marketing"
+      "jak wybrać CRM",
+      "SEO dla e-commerce",
+      "recenzje laptopów 2026",
+      "marketing dla SaaS"
     ],
-    "microcopy": "No prompts to write · No copy-paste · Up to 3 articles free",
-    "videoAriaLabel": "Watch Draft2Live demo",
-    "videoTitle": "Watch demo",
-    "videoSubtitle": "2 min, from keyword to published article",
+    "microcopy": "Bez pisania promptów · Bez kopiowania · Do 3 artykułów za darmo",
+    "videoAriaLabel": "Obejrzyj demo Draft2Live",
+    "videoTitle": "Obejrzyj demo",
+    "videoSubtitle": "2 minuty: od słowa kluczowego do opublikowanego artykułu",
     "trustStats": [
-      { "value": "5,000+", "label": "articles published" },
-      { "value": "45", "label": "languages with geo-targeting" },
+      { "value": "5000+", "label": "opublikowanych artykułów" },
+      { "value": "45", "label": "języków z geo-targetingiem" },
       { "value": "3", "label": "CMS: WordPress, Drupal, Shopify" }
     ]
   },
   "logoMarquee": {
-    "heading": "Integrates with your stack"
+    "heading": "Integruje się z Twoim stackiem"
   },
   "howItWorks": {
     "header": {
-      "badge": "HOW IT WORKS",
-      "title": "From keyword to published article in 4 steps."
+      "badge": "JAK TO DZIAŁA",
+      "title": "Od słowa kluczowego do opublikowanego artykułu w 4 krokach."
     },
     "items": [
       {
-        "title": "Enter a keyword and country",
-        "desc": "Choose your topic and target market. AI pulls real Google results from your specific region."
+        "title": "Wpisz słowo kluczowe i kraj",
+        "desc": "Wybierz temat i rynek docelowy. AI pobiera prawdziwe wyniki Google z Twojego konkretnego regionu."
       },
       {
-        "title": "Platform analyzes the TOP 10",
-        "desc": "Breaks down structure, keywords, volume, and strategy of each competitor."
+        "title": "Platforma analizuje TOP 10",
+        "desc": "Rozkłada na czynniki strukturę, słowa kluczowe, wolumen i strategię każdego konkurenta."
       },
       {
-        "title": "AI writes in your chosen tone",
-        "desc": "Uses SERP data, your selected tone of voice, and Knowledge Base documents to write the article."
+        "title": "AI pisze w wybranym tonie",
+        "desc": "Wykorzystuje dane SERP, wybrany ton głosu i dokumenty z Bazy wiedzy do napisania artykułu."
       },
       {
-        "title": "One click, article on your site",
-        "desc": "Publish to WordPress, Drupal, or Shopify Blog. Meta tags, images, alt texts, and internal links are added automatically."
+        "title": "Jedno kliknięcie — artykuł na stronie",
+        "desc": "Publikacja w WordPressie, Drupalu lub Shopify Blog. Metatagi, obrazy, teksty alt i linkowanie wewnętrzne dodawane automatycznie."
       }
     ]
   },
   "features": {
     "header": {
-      "badge": "FEATURES",
-      "title": "One service instead of five. Each at the level of a standalone product.",
-      "subtitle": "SERP analysis, AI copywriting, SEO audit, translations, and publishing in one window."
+      "badge": "FUNKCJE",
+      "title": "Jeden serwis zamiast pięciu. Każdy na poziomie osobnego produktu.",
+      "subtitle": "Analiza SERP, copywriting AI, audyt SEO, tłumaczenia i publikacja w jednym oknie."
     },
     "items": [
       {
-        "title": "Country-specific SERP analysis",
-        "desc": "Analyzes Google's TOP 10 in your specific country. Not generic data: real competitors in your market.",
+        "title": "Analiza SERP dla konkretnego kraju",
+        "desc": "Analizuje TOP 10 Google dokładnie w Twoim kraju. Nie ogólne dane — prawdziwi konkurenci na Twoim rynku.",
         "details": [
-          "45 languages with geo-targeting",
-          "Structure and keywords of each competitor",
-          "Real-time SERP data"
+          "45 języków z geo-targetingiem",
+          "Struktura i słowa kluczowe każdego konkurenta",
+          "Dane SERP w czasie rzeczywistym"
         ],
-        "visual": { "label": "45 languages", "stat": "TOP 10 SERP" }
+        "visual": { "label": "45 języków", "stat": "TOP 10 SERP" }
       },
       {
-        "title": "Tone of voice",
-        "desc": "Choose the tone for your articles — formal, casual, authoritative, or friendly. Same control on every plan.",
+        "title": "Ton głosu",
+        "desc": "Wybierz ton dla swoich artykułów — formalny, swobodny, autorytatywny lub przyjazny. Ta sama kontrola w każdym planie.",
         "details": [
-          "Formal, casual, authoritative, friendly presets",
-          "Switch tone per article",
-          "Available on every plan"
+          "Pretsety: formalny, swobodny, autorytatywny, przyjazny",
+          "Zmiana tonu dla każdego artykułu",
+          "Dostępne w każdym planie"
         ],
-        "visual": { "label": "Your tone", "stat": "4 presets" }
+        "visual": { "label": "Twój ton", "stat": "4 presety" }
       },
       {
-        "title": "SEO audit before publishing",
-        "desc": "Automatic check across 8 metrics. Article won't publish until it scores 85+.",
+        "title": "Audyt SEO przed publikacją",
+        "desc": "Automatyczne sprawdzenie według 8 wskaźników. Artykuł nie zostanie opublikowany, dopóki nie uzyska 85+ punktów.",
         "details": [
-          "Keyword density",
-          "Readability and heading structure",
-          "Meta tags, alt texts, internal linking"
+          "Gęstość słów kluczowych",
+          "Czytelność i struktura nagłówków",
+          "Metatagi, teksty alt, linkowanie wewnętrzne"
         ],
-        "visual": { "label": "85+", "stat": "8 metrics" }
+        "visual": { "label": "85+", "stat": "8 metryk" }
       },
       {
-        "title": "One-click CMS publishing",
-        "desc": "WordPress, Drupal, and Shopify Blog. Article goes to your site or store with images, meta tags, alt texts, and internal links.",
+        "title": "Publikacja w CMS jednym kliknięciem",
+        "desc": "WordPress, Drupal i Shopify Blog. Artykuł trafia na Twoją stronę lub do sklepu wraz z obrazami, metatagami, tekstami alt i linkowaniem wewnętrznym.",
         "details": [
-          "Automatic meta tags and Schema",
-          "Optimized images with alt text",
-          "Internal linking"
+          "Automatyczne metatagi i Schema",
+          "Zoptymalizowane obrazy z tekstem alt",
+          "Linkowanie wewnętrzne"
         ],
-        "visual": { "label": "1 click", "stat": "WordPress, Drupal & Shopify" }
+        "visual": { "label": "1 kliknięcie", "stat": "WordPress, Drupal i Shopify" }
       },
       {
-        "title": "Knowledge Base",
-        "desc": "Upload documents about your product, services, or industry. AI uses them for facts, making every article accurate.",
+        "title": "Baza wiedzy",
+        "desc": "Wgraj dokumenty o swoim produkcie, usługach lub branży. AI używa ich jako źródła faktów — i każdy artykuł staje się dokładny.",
         "details": [
-          "PDF, DOCX, TXT formats",
-          "Content is indexed automatically",
-          "Accurate facts instead of generic phrases"
+          "Formaty PDF, DOCX, TXT",
+          "Treść indeksowana automatycznie",
+          "Dokładne fakty zamiast ogólnych fraz"
         ],
-        "visual": { "label": "Facts", "stat": "Your documents" }
+        "visual": { "label": "Fakty", "stat": "Twoje dokumenty" }
       },
       {
-        "title": "White-label for agencies",
-        "desc": "Clients see your brand and interface. Scale content without hiring new copywriters.",
+        "title": "White-label dla agencji",
+        "desc": "Klienci widzą Twoją markę i interfejs. Skaluj treści bez zatrudniania nowych copywriterów.",
         "details": [
-          "Custom domain and logo",
-          "Separate tone of voice per client",
-          "Team access with roles"
+          "Własna domena i logo",
+          "Osobny ton głosu dla każdego klienta",
+          "Dostęp zespołowy z rolami"
         ],
-        "visual": { "label": "Your brand", "stat": "White-label" }
+        "visual": { "label": "Twoja marka", "stat": "White-label" }
       }
     ],
     "visuals": {
       "serp": {
-        "query": "seo optimization for small business",
-        "countryBadge": "US",
+        "query": "optymalizacja seo dla małej firmy",
+        "countryBadge": "PL",
         "results": [
-          { "title": "Complete SEO Optimization Guide for 2026", "domain": "competitor-a.com" },
-          { "title": "How to Rank on Google: 15 Proven Steps", "domain": "seo-blog.com" },
-          { "title": "SEO for Business: Strategy from A to Z", "domain": "marketing-pro.com" },
-          { "title": "Website Promotion in 2026", "domain": "webmaster.io" }
+          { "title": "Kompletny przewodnik po optymalizacji SEO na 2026 rok", "domain": "competitor-a.com" },
+          { "title": "Jak wbić się na top Google: 15 sprawdzonych kroków", "domain": "seo-blog.com" },
+          { "title": "SEO dla biznesu: strategia od A do Z", "domain": "marketing-pro.com" },
+          { "title": "Pozycjonowanie strony w 2026 roku", "domain": "webmaster.io" }
         ],
-        "done": "TOP 10 analysis complete"
+        "done": "Analiza TOP 10 zakończona"
       },
       "brandVoice": {
-        "title": "Tone of Voice",
+        "title": "Ton głosu",
         "metrics": [
-          { "label": "Tone", "value": "Professional" },
-          { "label": "Complexity", "value": "Medium" },
-          { "label": "Emotion", "value": "Moderate" },
-          { "label": "Technical", "value": "High" }
+          { "label": "Ton", "value": "Profesjonalny" },
+          { "label": "Złożoność", "value": "Średnia" },
+          { "label": "Emocjonalność", "value": "Umiarkowana" },
+          { "label": "Techniczność", "value": "Wysoka" }
         ],
-        "yourText": "Selected tone",
-        "aiResult": "AI output"
+        "yourText": "Wybrany ton",
+        "aiResult": "Wynik AI"
       },
       "seoAudit": {
         "metrics": [
-          "Keywords", "Headings H1-H6", "Meta description", "Readability",
-          "Alt text", "Internal linking", "Content length", "URL structure"
+          "Słowa kluczowe", "Nagłówki H1-H6", "Meta description", "Czytelność",
+          "Teksty alt", "Linkowanie wewnętrzne", "Długość treści", "Struktura URL"
         ]
       },
       "cmsPublish": {
         "url": "your-site.com/blog/seo-guide-2026",
         "siteName": "TechBlog.io",
-        "nav": { "home": "Home", "blog": "Blog", "contacts": "Contact" },
-        "breadcrumb": { "home": "Home", "blog": "Blog", "category": "SEO Guide" },
+        "nav": { "home": "Strona główna", "blog": "Blog", "contacts": "Kontakt" },
+        "breadcrumb": { "home": "Strona główna", "blog": "Blog", "category": "Przewodnik SEO" },
         "article": {
-          "title": "Complete SEO Guide for Small Business in 2026",
+          "title": "Kompletny przewodnik SEO dla małej firmy w 2026 roku",
           "authorInitial": "J",
-          "author": "John D.",
-          "date": "Apr 8, 2026",
-          "readTime": "12 min read",
-          "body": "SEO optimization is a set of strategies aimed at improving your site's position in Google search results. In this guide we cover key tactics...",
-          "h2": "1. Technical site audit",
-          "bodyH2": "Start with checking load speed, mobile adaptation and page indexing. Use Google Search Console..."
+          "author": "Jan K.",
+          "date": "8 kwi 2026",
+          "readTime": "12 min czytania",
+          "body": "Optymalizacja SEO to zestaw strategii mających na celu poprawę pozycji Twojej strony w wynikach wyszukiwania Google. W tym przewodniku omówimy kluczowe taktyki...",
+          "h2": "1. Audyt techniczny strony",
+          "bodyH2": "Zacznij od sprawdzenia szybkości ładowania, adaptacji mobilnej i indeksowania stron. Skorzystaj z Google Search Console..."
         },
-        "status": "Published"
+        "status": "Opublikowano"
       },
       "knowledgeBase": {
-        "title": "Uploaded documents",
-        "indexed": "3 documents indexed"
+        "title": "Wgrane dokumenty",
+        "indexed": "3 dokumenty zindeksowane"
       },
       "whiteLabel": {
-        "title": "Your brand",
+        "title": "Twoja marka",
         "brands": ["ContentBox Agency", "SEO Masters", "Digital Growth"]
       }
     }
   },
   "metrics": {
     "items": [
-      { "label": "articles published" },
-      { "label": "active companies" },
-      { "label": "languages with geo-targeting" },
-      { "label": "between AI and your CMS", "suffix": " copy-paste" }
+      { "label": "opublikowanych artykułów" },
+      { "label": "aktywnych firm" },
+      { "label": "języków z geo-targetingiem" },
+      { "label": "między AI a Twoim CMS", "suffix": " kopiuj-wklej" }
     ]
   },
   "testimonials": {
     "header": {
-      "badge": "TESTIMONIALS",
-      "title": "Results, not promises"
+      "badge": "OPINIE",
+      "title": "Wyniki, nie obietnice"
     },
-    "ratingAriaLabel": "Rating: 5 out of 5",
-    "navAriaLabel": "Testimonial from {name}",
+    "ratingAriaLabel": "Ocena: 5 na 5",
+    "navAriaLabel": "Opinia od {name}",
     "items": [
       {
-        "quote": "I used to write 8 articles a month and burn out. Now I produce 30+ through Draft2Live and sell them to clients as a premium service. The math finally works in my favor.",
-        "author": "Oleksiy Kovalenko",
-        "role": "SEO freelancer, 3 years experience",
-        "initials": "OK"
+        "quote": "Wcześniej pisałem 8 artykułów miesięcznie i się wypalałem. Teraz wypuszczam 30+ przez Draft2Live i sprzedaję klientom jako usługę premium. Liczby wreszcie się zgadzają.",
+        "author": "Aleksy Kowalski",
+        "role": "Freelancer SEO, 3 lata doświadczenia",
+        "initials": "AK"
       },
       {
-        "quote": "We connected white-label to 12 client sites. Clients think it's our own platform. In the first month we produced 87 articles. Previously that would have taken a quarter and 2 extra copywriters.",
-        "author": "Nadiya Marchenko",
-        "role": "CEO, digital agency ContentBox",
+        "quote": "Podłączyliśmy white-label do 12 stron klientów. Klienci są przekonani, że to nasza własna platforma. W pierwszym miesiącu wypuściliśmy 87 artykułów. Wcześniej zajęłoby to kwartał i dwóch dodatkowych copywriterów.",
+        "author": "Nadia Marczewska",
+        "role": "CEO, agencja digital ContentBox",
         "initials": "NM"
       },
       {
-        "quote": "I run a furniture e-store. I used to pay a copywriter €25 per article and wait a week. Now I write 4 articles a day myself. Organic traffic grew 40% in 2 months.",
-        "author": "Andriy Tkachenko",
-        "role": "Owner, MebleCity",
+        "quote": "Mam sklep internetowy z meblami. Kiedyś płaciłem copywriterowi €25 za artykuł i czekałem tydzień. Teraz sam piszę 4 artykuły dziennie. Ruch organiczny wzrósł o 40% w 2 miesiące.",
+        "author": "Andrzej Tkaczewski",
+        "role": "Właściciel, MebleCity",
         "initials": "AT"
       },
       {
-        "quote": "We translated our blog into 6 languages in a week. A single translation used to cost €40 and take 3 days. Now Draft2Live creates a localized SEO article before our coffee gets cold.",
-        "author": "Iryna Savchenko",
+        "quote": "Przetłumaczyliśmy bloga na 6 języków w tydzień. Jedno tłumaczenie kosztowało wcześniej €40 i zajmowało 3 dni. Teraz Draft2Live tworzy zlokalizowany artykuł SEO szybciej, niż wystygnie kawa.",
+        "author": "Irena Sawicka",
         "role": "Head of Content, TravelHub",
         "initials": "IS"
       },
       {
-        "quote": "As a solo marketer, I couldn't compete with agencies on content. Now I publish 15 articles a month. Blog lead generation increased by 65%.",
-        "author": "Dmytro Bondarenko",
-        "role": "Marketing Manager, SaaS startup",
+        "quote": "Jako solo-marketer nie mogłem konkurować z agencjami pod względem objętości treści. Teraz publikuję 15 artykułów miesięcznie. Lead generation z bloga wzrosła o 65%.",
+        "author": "Dymitr Bondarczewski",
+        "role": "Marketing Manager, startup SaaS",
         "initials": "DB"
       },
       {
-        "quote": "Knowledge Base solved our main problem. AI now knows our products, prices, and technical details. Articles are finally accurate, not generic internet phrases.",
-        "author": "Olena Shevchenko",
+        "quote": "Baza wiedzy rozwiązała nasz główny problem. AI zna teraz nasze produkty, ceny i szczegóły techniczne. Artykuły są wreszcie dokładne, a nie ogólne frazy z internetu.",
+        "author": "Helena Szewczyk",
         "role": "Product Marketing, TechStore",
-        "initials": "OS"
+        "initials": "HS"
       }
     ]
   },
   "useCases": {
     "header": {
-      "badge": "WHO IT'S FOR",
-      "title": "One platform. Three scenarios"
+      "badge": "DLA KOGO",
+      "title": "Jedna platforma. Trzy scenariusze"
     },
     "items": [
       {
-        "persona": "SEO freelancer",
-        "headline": "3x more articles without burnout",
-        "desc": "Sell content to clients as a premium service. 30 articles a month instead of 8. The math finally works for you.",
-        "metrics": ["30+ articles/mo", "Premium quality", "ROI from week one"]
+        "persona": "Freelancer SEO",
+        "headline": "3× więcej artykułów bez wypalenia",
+        "desc": "Sprzedawaj treści klientom jako usługę premium. 30 artykułów miesięcznie zamiast 8. Liczby wreszcie się zgadzają.",
+        "metrics": ["30+ artykułów/mies.", "Jakość premium", "ROI od pierwszego tygodnia"]
       },
       {
-        "persona": "Digital agency",
-        "headline": "White-label under your brand",
-        "desc": "Connect client sites, set the tone of voice for each. Clients see your interface. Scale without hiring.",
-        "metrics": ["Up to 15 sites", "Team access", "Your brand"]
+        "persona": "Agencja digital",
+        "headline": "White-label pod Twoją marką",
+        "desc": "Podłącz strony klientów, ustaw osobny ton głosu dla każdego. Klienci widzą Twój interfejs. Skaluj bez zatrudniania.",
+        "metrics": ["Do 15 stron", "Dostęp zespołowy", "Twoja marka"]
       },
       {
-        "persona": "Business owner",
-        "headline": "Content without a copywriter",
-        "desc": "Enter a keyword, get a published article. No SEO expertise needed. Organic traffic grows while you focus on business.",
-        "metrics": ["No SEO experience needed", "Hands-off publishing", "+40% traffic"]
+        "persona": "Właściciel firmy",
+        "headline": "Treści bez copywritera",
+        "desc": "Wpisz słowo kluczowe, otrzymaj opublikowany artykuł. Wiedza SEO niepotrzebna. Ruch organiczny rośnie, gdy Ty zajmujesz się biznesem.",
+        "metrics": ["Bez znajomości SEO", "Automatyczna publikacja", "+40% ruchu"]
       }
     ]
   },
   "priceAnchor": {
     "header": {
-      "badge": "COMPARE COSTS",
-      "title": "You pay €328/mo for what Draft2Live does for €49."
+      "badge": "PORÓWNANIE KOSZTÓW",
+      "title": "Płacisz €328/mies. za to, co Draft2Live robi za €49."
     },
-    "totalLabel": "Total:",
-    "perMonth": "/mo",
+    "totalLabel": "Razem:",
+    "perMonth": "/mies.",
     "competitors": [
-      { "name": "Semrush", "desc": "SERP analysis and keyword research" },
-      { "name": "SurferSEO", "desc": "SEO scoring and content optimization" },
-      { "name": "Jasper", "desc": "AI text generation" },
-      { "name": "DeepL Pro", "desc": "Translations to other languages" },
-      { "name": "WP plugins (Yoast, RankMath)", "desc": "SEO plugins and auto-publishing" }
+      { "name": "Semrush", "desc": "Analiza SERP i badanie słów kluczowych" },
+      { "name": "SurferSEO", "desc": "Ocena SEO i optymalizacja treści" },
+      { "name": "Jasper", "desc": "Generowanie tekstów AI" },
+      { "name": "DeepL Pro", "desc": "Tłumaczenia na inne języki" },
+      { "name": "Wtyczki WP (Yoast, RankMath)", "desc": "Wtyczki SEO i automatyczna publikacja" }
     ],
     "d2l": {
-      "eyebrow": "Draft2Live: all in one",
-      "priceSuffix": "/mo. SERP, AI, SEO, CMS, translations",
-      "savings": "You save €279/mo = €3,348 per year"
+      "eyebrow": "Draft2Live: wszystko w jednym",
+      "priceSuffix": "/mies. SERP, AI, SEO, CMS, tłumaczenia",
+      "savings": "Oszczędność €279/mies. = €3348 rocznie"
     }
   },
   "pricing": {
     "header": {
-      "badge": "PRICING",
-      "title": "Choose a plan for your volume. Change anytime."
+      "badge": "CENNIK",
+      "title": "Wybierz plan dopasowany do Twojego wolumenu. Zmień w każdej chwili."
     },
     "billing": {
-      "monthly": "Monthly",
-      "annual": "Annual",
+      "monthly": "Miesięcznie",
+      "annual": "Rocznie",
       "discount": "-20%",
-      "toggleAriaLabel": "Toggle billing plan"
+      "toggleAriaLabel": "Przełącznik planu rozliczeniowego"
     },
-    "perMonth": "/mo",
-    "customPriceLabel": "Custom",
+    "perMonth": "/mies.",
+    "customPriceLabel": "Na zapytanie",
     "plans": [
       {
-        "description": "Try without commitment, no card required",
+        "description": "Wypróbuj bez zobowiązań, bez karty",
         "features": [
-          "Up to 3 articles per month",
-          "Publishing on draft2live.com",
-          "3 languages with geo-targeting",
-          "TOP 10 SERP analysis",
-          "SEO audit across 8 metrics"
+          "Do 3 artykułów miesięcznie",
+          "Publikacja na draft2live.com",
+          "3 języki z geo-targetingiem",
+          "Analiza TOP 10 SERP",
+          "Audyt SEO według 8 wskaźników"
         ],
-        "ctaText": "Start free"
+        "ctaText": "Zacznij za darmo"
       },
       {
-        "badge": "Most Popular",
-        "description": "For freelancers who earn from content",
+        "badge": "Najpopularniejszy",
+        "description": "Dla freelancerów, którzy zarabiają na treściach",
         "features": [
-          "Up to 20 articles per month",
-          "2 sites (WordPress/Drupal/Shopify)",
-          "5 languages with geo-targeting",
-          "Meta tags, alt texts, internal linking",
-          "3 documents in Knowledge Base"
+          "Do 20 artykułów miesięcznie",
+          "2 strony (WordPress/Drupal/Shopify)",
+          "5 języków z geo-targetingiem",
+          "Metatagi, teksty alt, linkowanie",
+          "3 dokumenty w Bazie wiedzy"
         ],
-        "ctaText": "Get Connect"
+        "ctaText": "Wybierz Connect"
       },
       {
-        "description": "For agencies and content teams",
+        "description": "Dla agencji i zespołów contentowych",
         "features": [
-          "Up to 100 articles per month",
-          "5 sites",
-          "45 languages with geo-targeting",
-          "Content calendar and team access",
-          "API access",
-          "Priority support"
+          "Do 100 artykułów miesięcznie",
+          "5 stron",
+          "45 języków z geo-targetingiem",
+          "Kalendarz treści i dostęp zespołowy",
+          "Dostęp do API",
+          "Priorytetowe wsparcie"
         ],
-        "ctaText": "Get Team"
+        "ctaText": "Wybierz Team"
       },
       {
-        "description": "For large teams and agencies",
+        "description": "Dla dużych zespołów i agencji",
         "features": [
-          "Everything in Team",
-          "500+ articles/month, custom credits",
-          "White-label + multi-brand, unlimited API",
-          "SSO (SAML/OIDC), DPA, 99.9% SLA",
-          "Dedicated success manager",
-          "Drupal-native integration, on-prem option"
+          "Wszystko z planu Team",
+          "500+ artykułów/mies., niestandardowe kredyty",
+          "White-label + multi-marka, nielimitowane API",
+          "SSO (SAML/OIDC), DPA, SLA 99,9%",
+          "Dedykowany manager sukcesu",
+          "Natywna integracja z Drupalem, opcja on-prem"
         ],
-        "ctaText": "Contact sales"
+        "ctaText": "Skontaktuj się z działem sprzedaży"
       }
     ]
   },
   "faq": {
     "header": {
       "badge": "FAQ",
-      "title": "Answers to what's holding you back"
+      "title": "Odpowiedzi na to, co Cię powstrzymuje"
     },
     "microCta": {
-      "text": "Still have questions? Try it yourself — first 3 articles are free.",
-      "button": "Start free →"
+      "text": "Masz jeszcze pytania? Sprawdź sam — pierwsze 3 artykuły za darmo.",
+      "button": "Zacznij za darmo →"
     },
     "items": [
       {
-        "q": "How is this different from ChatGPT?",
-        "a": "ChatGPT generates text from scratch without your market context. Draft2Live first analyzes Google's TOP 10 in your specific country, studies competitor structure and keywords, then writes an article in your style and publishes it to your CMS with meta tags and images. It's not a text generator — it's a full cycle: research, writing, publishing.",
-        "aPlain": "ChatGPT generates text from scratch without your market context. Draft2Live first analyzes Google's TOP 10 in your specific country, studies competitor structure and keywords, then writes an article in your style and publishes it to your CMS with meta tags and images. It's not a text generator — it's a full cycle: research, writing, publishing."
+        "q": "Czym to się różni od ChatGPT?",
+        "a": "ChatGPT generuje tekst od zera bez zrozumienia Twojego rynku. Draft2Live najpierw analizuje TOP 10 Google dokładnie w Twoim kraju, bada strukturę i słowa kluczowe konkurentów, a następnie pisze artykuł w Twoim stylu i publikuje go w CMS z metatagami i obrazami. To nie generator tekstu — to pełny cykl: badanie, pisanie, publikacja.",
+        "aPlain": "ChatGPT generuje tekst od zera bez zrozumienia Twojego rynku. Draft2Live najpierw analizuje TOP 10 Google dokładnie w Twoim kraju, bada strukturę i słowa kluczowe konkurentów, a następnie pisze artykuł w Twoim stylu i publikuje go w CMS z metatagami i obrazami. To nie generator tekstu — to pełny cykl: badanie, pisanie, publikacja."
       },
       {
-        "q": "Does Google penalize AI content?",
-        "a": "No. Google's March 2024 Helpful Content Update is explicit: quality matters, not origin. Ahrefs' 2024 analysis of 6.8K articles found 86.5% of AI content optimized for SERP intent ranks successfully on Google. Draft2Live audits every article on 8 SEO metrics (intent, readability, meta, structure) and won't publish until the score reaches 85+. You edit and approve before it goes live. Across 5,000+ of our published articles, zero clients have received penalties.",
-        "aPlain": "No. Google's March 2024 Helpful Content Update is explicit: quality matters, not origin. Ahrefs' 2024 analysis of 6.8K articles found 86.5% of AI content optimized for SERP intent ranks successfully on Google. Draft2Live audits every article on 8 SEO metrics (intent, readability, meta, structure) and won't publish until the score reaches 85+. You edit and approve before it goes live. Across 5,000+ of our published articles, zero clients have received penalties."
+        "q": "Czy Google karze za treści AI?",
+        "a": "Nie. Google's Helpful Content Update (marzec 2024) jasno stwierdza: liczy się jakość, nie pochodzenie. Według Ahrefs 86,5% zoptymalizowanych pod intencję SERP treści AI z 6,8 tys. artykułów skutecznie rankuje w Google. Draft2Live audytuje każdy artykuł według 8 metryk SEO (intencja, czytelność, meta, struktura) i nie publikuje go, dopóki nie uzyska 85+ punktów. Edytujesz i zatwierdzasz przed publikacją. Z 5000+ opublikowanych przez nas artykułów żaden klient nie otrzymał kary.",
+        "aPlain": "Nie. Google's Helpful Content Update (marzec 2024) jasno stwierdza: liczy się jakość, nie pochodzenie. Według Ahrefs 86,5% zoptymalizowanych pod intencję SERP treści AI z 6,8 tys. artykułów skutecznie rankuje w Google. Draft2Live audytuje każdy artykuł według 8 metryk SEO (intencja, czytelność, meta, struktura) i nie publikuje go, dopóki nie uzyska 85+ punktów. Edytujesz i zatwierdzasz przed publikacją. Z 5000+ opublikowanych przez nas artykułów żaden klient nie otrzymał kary."
       },
       {
-        "q": "How long does one article actually take?",
-        "a": "Most articles publish before your coffee gets cold. SERP analysis takes 2–3 minutes, generation 10–12, and CMS publishing finishes in seconds. You queue the keyword and walk away — there's nothing to babysit.",
-        "aPlain": "Most articles publish before your coffee gets cold. SERP analysis takes 2–3 minutes, generation 10–12, and CMS publishing finishes in seconds. You queue the keyword and walk away — there's nothing to babysit."
+        "q": "Ile naprawdę zajmuje jeden artykuł?",
+        "a": "Większość artykułów publikuje się szybciej, niż wystygnie Twoja kawa. Analiza SERP — 2–3 minuty, generowanie — 10–12, publikacja w CMS — sekundy. Stawiasz słowo kluczowe w kolejce i jesteś wolny — niczego nie trzeba pilnować.",
+        "aPlain": "Większość artykułów publikuje się szybciej, niż wystygnie Twoja kawa. Analiza SERP — 2–3 minuty, generowanie — 10–12, publikacja w CMS — sekundy. Stawiasz słowo kluczowe w kolejce i jesteś wolny — niczego nie trzeba pilnować."
       },
       {
-        "q": "What is Knowledge Base and why do I need it?",
-        "a": "It's your document library: product descriptions, pricing, technical specs, FAQ. AI pulls data from it when writing, so articles contain accurate facts, prices, and details specific to your business — not generic phrases.",
-        "aPlain": "It's your document library: product descriptions, pricing, technical specs, FAQ. AI pulls data from it when writing, so articles contain accurate facts, prices, and details specific to your business — not generic phrases."
+        "q": "Czym jest Baza wiedzy i po co mi ona?",
+        "a": "To Twoja biblioteka dokumentów: opisy produktów, cenniki, specyfikacje techniczne, FAQ. AI pobiera z niej dane podczas pisania, dzięki czemu artykuły zawierają dokładne fakty, ceny i szczegóły specyficzne dla Twojego biznesu — a nie ogólne frazy.",
+        "aPlain": "To Twoja biblioteka dokumentów: opisy produktów, cenniki, specyfikacje techniczne, FAQ. AI pobiera z niej dane podczas pisania, dzięki czemu artykuły zawierają dokładne fakty, ceny i szczegóły specyficzne dla Twojego biznesu — a nie ogólne frazy."
       },
       {
-        "q": "Is it suitable for an agency with multiple clients?",
-        "a": "Yes, that's exactly what the Team and Enterprise plans are for. You connect multiple sites, set a separate tone of voice for each client, and with white-label clients don't even know you're using Draft2Live.",
-        "aPlain": "Yes, that's exactly what the Team and Enterprise plans are for. You connect multiple sites, set a separate tone of voice for each client, and with white-label clients don't even know you're using Draft2Live."
+        "q": "Czy nadaje się dla agencji z wieloma klientami?",
+        "a": "Tak, dokładnie po to są plany Team i Enterprise. Podłączasz wiele stron, ustawiasz osobny ton głosu dla każdego klienta, a z white-label klienci nawet nie wiedzą, że używasz Draft2Live.",
+        "aPlain": "Tak, dokładnie po to są plany Team i Enterprise. Podłączasz wiele stron, ustawiasz osobny ton głosu dla każdego klienta, a z white-label klienci nawet nie wiedzą, że używasz Draft2Live."
       },
       {
-        "q": "What if it doesn't work for me?",
-        "a": "Start with the free plan: up to 3 articles per month with full SERP analysis and SEO audit, no card required. Paid plans come with a 30-day money-back guarantee. You can cancel your subscription in one click at any time.",
-        "aPlain": "Start with the free plan: up to 3 articles per month with full SERP analysis and SEO audit, no card required. Paid plans come with a 30-day money-back guarantee. You can cancel your subscription in one click at any time."
+        "q": "A jeśli mi nie podejdzie?",
+        "a": "Zacznij od planu darmowego: do 3 artykułów miesięcznie z pełną analizą SERP i audytem SEO, bez karty. Plany płatne mają 30-dniową gwarancję zwrotu pieniędzy. Subskrypcję możesz anulować jednym kliknięciem w każdej chwili.",
+        "aPlain": "Zacznij od planu darmowego: do 3 artykułów miesięcznie z pełną analizą SERP i audytem SEO, bez karty. Plany płatne mają 30-dniową gwarancję zwrotu pieniędzy. Subskrypcję możesz anulować jednym kliknięciem w każdej chwili."
       }
     ]
   },
   "cta": {
-    "titlePart1": "Your competitors are already publishing.",
-    "titlePart2": "Are you?",
-    "subtitle": "Up to 3 articles free. No credit card. Live URL before your coffee gets cold.",
-    "ctaPrimary": "Start free",
-    "ctaSecondary": "Watch demo",
-    "trustLine": "WordPress + Drupal + Shopify · 45 languages with geo-targeting · 30-day money-back guarantee",
-    "imageAlt": "Draft2Live — AI-to-CMS publishing"
+    "titlePart1": "Twoi konkurenci już publikują.",
+    "titlePart2": "A Ty?",
+    "subtitle": "Do 3 artykułów za darmo. Bez karty. Gotowy URL — szybciej, niż wystygnie kawa.",
+    "ctaPrimary": "Zacznij za darmo",
+    "ctaSecondary": "Obejrzyj demo",
+    "trustLine": "WordPress + Drupal + Shopify · 45 języków z geo-targetingiem · 30-dniowa gwarancja zwrotu pieniędzy",
+    "imageAlt": "Draft2Live — publikacja AI bezpośrednio do CMS"
   },
   "footer": {
     "brand": {
-      "description": "From keyword to a live SEO article — done before your coffee. AI platform for SEO content.",
-      "newsletterPlaceholder": "Email for SEO tips",
-      "newsletterAriaLabel": "Email to subscribe to newsletter",
-      "subscribe": "Subscribe"
+      "description": "Od słowa kluczowego do opublikowanego artykułu SEO — zanim wystygnie kawa. Platforma AI dla treści SEO.",
+      "newsletterPlaceholder": "Email po porady SEO",
+      "newsletterAriaLabel": "Email do zapisu na newsletter",
+      "subscribe": "Zapisz się"
     },
     "product": {
-      "title": "Product",
-      "links": ["Features", "Pricing"]
+      "title": "Produkt",
+      "links": ["Funkcje", "Cennik"]
     },
     "company": {
-      "title": "Company",
-      "links": ["Contact"]
+      "title": "Firma",
+      "links": ["Kontakt"]
     },
     "legal": {
-      "links": ["Terms", "Privacy", "Cookies"]
+      "links": ["Regulamin", "Polityka prywatności", "Cookies"]
     },
-    "copyright": "© 2026 Draft2Live. All rights reserved."
+    "copyright": "© 2026 Draft2Live. Wszystkie prawa zastrzeżone."
   },
   "earlyAccess": {
-    "closeAriaLabel": "Close",
-    "statusLabel": "Launching in a few weeks",
-    "title": "Be among the first to publish articles before your coffee gets cold",
-    "subtitle": "Up to 3 articles free + priority when we launch",
-    "bonus": "First 100 sign-ups: Connect plan free for 30 days",
-    "planBadge": "Selected plan: {plan}",
-    "keywordBadge": "Your keyword: {keyword}",
-    "emailPlaceholder": "Your email",
-    "gdprPrefix": "I agree to the processing of personal data in accordance with the",
-    "gdprLink": "Privacy Policy",
-    "submit": "Get free access",
-    "submitLoading": "Booking...",
-    "noSpam": "One email when we launch. No spam.",
-    "successTitle": "Your spot is reserved!",
-    "successLine1": "You're on the early access list.",
+    "closeAriaLabel": "Zamknij",
+    "statusLabel": "Start za kilka tygodni",
+    "title": "Bądź wśród pierwszych, którzy publikują artykuły, zanim wystygnie kawa",
+    "subtitle": "Do 3 artykułów za darmo + priorytet na starcie",
+    "bonus": "Pierwszych 100 zapisów: plan Connect za darmo na 30 dni",
+    "planBadge": "Wybrany plan: {plan}",
+    "keywordBadge": "Twoje słowo kluczowe: {keyword}",
+    "emailPlaceholder": "Twój email",
+    "gdprPrefix": "Wyrażam zgodę na przetwarzanie danych osobowych zgodnie z",
+    "gdprLink": "Polityką prywatności",
+    "submit": "Zdobądź darmowy dostęp",
+    "submitLoading": "Rezerwujemy...",
+    "noSpam": "Jeden mail na starcie. Bez spamu.",
+    "successTitle": "Twoje miejsce zarezerwowane!",
+    "successLine1": "Jesteś na liście wczesnego dostępu.",
     "successPlanPrefix": "Plan",
-    "successPlanSuffix": "is secured for you.",
-    "successEmailPrefix": "We'll email",
-    "successEmailSuffix": "as soon as everything is ready.",
-    "successButton": "Great, I'll be waiting!"
+    "successPlanSuffix": "jest dla Ciebie zarezerwowany.",
+    "successEmailPrefix": "Napiszemy na",
+    "successEmailSuffix": ", gdy tylko wszystko będzie gotowe.",
+    "successButton": "Świetnie, czekam!"
   },
   "stickyMobileCTA": {
-    "cta": "Start free"
+    "cta": "Zacznij za darmo"
   }
 }
