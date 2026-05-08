@@ -28,7 +28,7 @@
     "titleLine1": "Od słowa kluczowego do",
     "titleLine2Prefix": "opublikowanego",
     "titleLine3": "zanim wystygnie kawa.",
-    "typingWords": ["artykułu SEO", "wpisu na blog", "poradnika", "recenzji produktu", "wpisu na Shopify Blog"],
+    "typingWords": ["artykułu SEO", "wpisu na bloga", "poradnika", "przeglądu produktu", "wpisu na Shopify Blog"],
     "subtitle": "Analiza SERP w Twoim kraju docelowym, pisanie w Twoim stylu, audyt SEO i publikacja jednym kliknięciem w WordPressie, Drupalu lub Shopify Blog — w pełni automatycznie.",
     "searchPlaceholder": "Wpisz słowo kluczowe artykułu...",
     "searchAriaLabel": "Słowo kluczowe artykułu",
@@ -98,7 +98,7 @@
         "title": "Ton głosu",
         "desc": "Wybierz ton dla swoich artykułów — formalny, swobodny, autorytatywny lub przyjazny. Ta sama kontrola w każdym planie.",
         "details": [
-          "Pretsety: formalny, swobodny, autorytatywny, przyjazny",
+          "Presety: formalny, swobodny, autorytatywny, przyjazny",
           "Zmiana tonu dla każdego artykułu",
           "Dostępne w każdym planie"
         ],
