@@ -206,7 +206,7 @@
       { "label": "opublikowanych artykułów" },
       { "label": "aktywnych firm" },
       { "label": "języków z geo-targetingiem" },
-      { "label": "między AI a Twoim CMS", "suffix": " kopiuj-wklej" }
+      { "label": "kopiuj-wklej między AI a Twoim CMS" }
     ]
   },
   "testimonials": {
