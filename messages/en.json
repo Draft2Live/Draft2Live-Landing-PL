@@ -212,7 +212,7 @@
   "testimonials": {
     "header": {
       "badge": "OPINIE",
-      "title": "Wyniki, nie obietnice"
+      "title": "Wyniki, nie obietnice."
     },
     "ratingAriaLabel": "Ocena: 5 na 5",
     "navAriaLabel": "Opinia od {name}",
@@ -258,7 +258,7 @@
   "useCases": {
     "header": {
       "badge": "DLA KOGO",
-      "title": "Jedna platforma. Trzy scenariusze"
+      "title": "Jedna platforma. Trzy scenariusze."
     },
     "items": [
       {
@@ -367,7 +367,7 @@
   "faq": {
     "header": {
       "badge": "FAQ",
-      "title": "Odpowiedzi na to, co Cię powstrzymuje"
+      "title": "Odpowiedzi na to, co Cię powstrzymuje."
     },
     "microCta": {
       "text": "Masz jeszcze pytania? Sprawdź sam — pierwsze 3 artykuły za darmo.",
