@@ -24,7 +24,7 @@ export default function TermsPage() {
             {/* §1 */}
             <section>
               <h2 className="text-xl font-semibold text-white mb-3">&sect;1. Postanowienia ogólne</h2>
-              <p>1. Niniejszy regulamin (dalej &laquo;Regulamin&raquo;) określa rodzaje, zakres oraz warunki świadczenia usług drogą elektroniczną przez Aklima Polska sp. z o.o. z siedzibą w Warszawie przy ul. Postępu 15, 02-676 Warszawa, Polska, wpisaną do Rejestru Przedsiębiorców Krajowego Rejestru Sądowego pod numerem KRS: 0000978391, NIP: 9512544995, REGON: 522520422, kapitał zakładowy: 10 000 PLN (dalej &laquo;Operator&raquo;, &laquo;my&raquo;), za pośrednictwem strony draft2live.ai oraz wszystkich powiązanych subdomen i aplikacji (dalej &laquo;Platforma&raquo;). Niniejszy Regulamin stanowi regulamin w rozumieniu polskiej ustawy z dnia 18 lipca 2002 roku o świadczeniu usług drogą elektroniczną.</p>
+              <p>1. Niniejszy regulamin (dalej &laquo;Regulamin&raquo;) określa rodzaje, zakres oraz warunki świadczenia usług drogą elektroniczną przez Myicode sp. z o.o. z siedzibą w Warszawie przy ul. Postępu 15, 02-676 Warszawa, Polska, NIP: 5214167154 (dalej &laquo;Operator&raquo;, &laquo;my&raquo;), za pośrednictwem strony draft2live.ai oraz wszystkich powiązanych subdomen i aplikacji (dalej &laquo;Platforma&raquo;). Niniejszy Regulamin stanowi regulamin w rozumieniu polskiej ustawy z dnia 18 lipca 2002 roku o świadczeniu usług drogą elektroniczną.</p>
               <p className="mt-3">2. Rejestrując się lub korzystając z Platformy, potwierdzają Państwo, że zapoznali się z niniejszym Regulaminem, <Link href="/privacy" className="text-primary hover:underline">Polityką prywatności</Link> oraz <Link href="/cookies" className="text-primary hover:underline">Polityką cookies</Link> i zobowiązują się do ich przestrzegania.</p>
             </section>
 
@@ -33,7 +33,7 @@ export default function TermsPage() {
               <h2 className="text-xl font-semibold text-white mb-3">&sect;2. Definicje</h2>
               <ul className="space-y-2">
                 <li><strong className="text-white">Platforma</strong> &mdash; strona internetowa pod adresem draft2live.ai, w tym wszystkie subdomeny i aplikacje, za pośrednictwem których Operator świadczy Usługi.</li>
-                <li><strong className="text-white">Operator</strong> &mdash; Aklima Polska sp. z o.o., ul. Postępu 15, 02-676 Warszawa, KRS: 0000978391, NIP: 9512544995, REGON: 522520422, administrująca Platformą.</li>
+                <li><strong className="text-white">Operator</strong> &mdash; Myicode sp. z o.o., ul. Postępu 15, 02-676 Warszawa, NIP: 5214167154, administrująca Platformą.</li>
                 <li><strong className="text-white">Użytkownik</strong> &mdash; osoba fizyczna w wieku co najmniej 18 lat, osoba prowadząca jednoosobową działalność gospodarczą, osoba prawna lub jednostka organizacyjna nieposiadająca osobowości prawnej, korzystająca z Platformy.</li>
                 <li><strong className="text-white">Konto</strong> &mdash; zbiór zasobów w systemie informatycznym Operatora, identyfikowany indywidualnym loginem (email) i hasłem, w którym przechowywane są dane Użytkownika.</li>
                 <li><strong className="text-white">Umowa</strong> &mdash; umowa o świadczenie usług zawarta między Operatorem a Użytkownikiem za pośrednictwem Platformy na czas nieokreślony zgodnie z niniejszym Regulaminem.</li>
@@ -120,7 +120,7 @@ export default function TermsPage() {
             {/* §8 */}
             <section>
               <h2 className="text-xl font-semibold text-white mb-3">&sect;8. Własność intelektualna</h2>
-              <p>1. Wszelkie prawa do Platformy, w tym jej design, oprogramowanie, znaki towarowe, logotypy i inne materiały, należą do Aklima Polska sp. z o.o. lub jej licencjodawców.</p>
+              <p>1. Wszelkie prawa do Platformy, w tym jej design, oprogramowanie, znaki towarowe, logotypy i inne materiały, należą do Myicode sp. z o.o. lub jej licencjodawców.</p>
               <p className="mt-3">2. Kopiowanie, modyfikowanie, rozpowszechnianie lub wykorzystywanie materiałów Platformy do celów komercyjnych lub reklamowych bez pisemnej zgody Operatora jest zabronione.</p>
               <p className="mt-3">3. <strong className="text-white">Treści Użytkownika:</strong> Użytkownik zachowuje prawa do treści wygenerowanych za pośrednictwem Platformy, pod warunkiem przestrzegania niniejszego Regulaminu i opłacenia obowiązującego planu cenowego.</p>
               <p className="mt-3">4. <strong className="text-white">Wgrane materiały:</strong> wgrywając dokumenty do Bazy wiedzy, Użytkownik gwarantuje, że posiada niezbędne prawa do takich materiałów.</p>
@@ -176,7 +176,7 @@ export default function TermsPage() {
               <h2 className="text-xl font-semibold text-white mb-3">&sect;13. Ochrona danych osobowych</h2>
               <p>1. Szczegółowe warunki ochrony danych osobowych określa <Link href="/privacy" className="text-primary hover:underline">Polityka prywatności</Link>.</p>
               <p className="mt-3">2. Przetwarzanie danych osobowych regulują przepisy Rozporządzenia (UE) 2016/679 (RODO) oraz polskiej ustawy z dnia 10 maja 2018 roku o ochronie danych osobowych.</p>
-              <p className="mt-3">3. Administratorem danych osobowych jest Aklima Polska sp. z o.o.</p>
+              <p className="mt-3">3. Administratorem danych osobowych jest Myicode sp. z o.o.</p>
             </section>
 
             {/* §14 */}
@@ -198,9 +198,9 @@ export default function TermsPage() {
             <section>
               <h2 className="text-xl font-semibold text-white mb-3">&sect;16. Kontakt</h2>
               <ul className="list-none mt-3 space-y-1.5">
-                <li><strong className="text-white">Operator:</strong> Aklima Polska sp. z o.o.</li>
+                <li><strong className="text-white">Operator:</strong> Myicode sp. z o.o.</li>
                 <li><strong className="text-white">Adres:</strong> ul. Postępu 15, 02-676 Warszawa, Polska</li>
-                <li><strong className="text-white">KRS:</strong> 0000978391 | <strong className="text-white">NIP:</strong> 9512544995 | <strong className="text-white">REGON:</strong> 522520422</li>
+                <li><strong className="text-white">NIP:</strong> 5214167154</li>
                 <li><strong className="text-white">Email:</strong> <a href="mailto:info@draft2live.ai" className="text-primary hover:underline">info@draft2live.ai</a></li>
                 <li><strong className="text-white">Strona:</strong> <a href="https://draft2live.ai" className="text-primary hover:underline">draft2live.ai</a></li>
               </ul>
