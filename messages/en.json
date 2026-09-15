@@ -1,15 +1,15 @@
 {
   "metadata": {
     "title": "Draft2Live — Generator artykułów SEO z AI i publikacją w Twoim CMS",
-    "description": "AI tworzy artykuły SEO i publikuje je bezpośrednio w Twoim WordPressie, Drupalu lub Shopify Blog. Analiza SERP, kontrola tonu wypowiedzi, w pełni automatyczna publikacja w CMS.",
-    "ogTitle": "Draft2Live: AI dla treści SEO, które publikują się same",
-    "ogDescription": "Wpisz słowo kluczowe. AI analizuje SERP, pisze w Twoim stylu i publikuje w CMS — wszystko gotowe, zanim wystygnie kawa.",
+    "description": "AI pisze artykuły SEO na podstawie prawdziwych danych SERP i publikuje je jednym kliknięciem w Twoim WordPressie, Drupalu lub Shopify Blog. Analiza SERP, kontrola tonu wypowiedzi, wynik SEO.",
+    "ogTitle": "Draft2Live: artykuły SEO z AI publikowane w Twoim CMS jednym kliknięciem",
+    "ogDescription": "Wpisz słowo kluczowe. AI analizuje SERP, pisze w Twoim tonie, a Ty publikujesz w CMS jednym kliknięciem.",
     "twitterTitle": "Draft2Live: AI dla treści SEO",
-    "twitterDescription": "Od słowa kluczowego do opublikowanego artykułu SEO — szybciej, niż wystygnie kawa. Analiza SERP, ton głosu, publikacja w CMS jednym kliknięciem.",
+    "twitterDescription": "Od słowa kluczowego do opublikowanego artykułu SEO: analiza SERP, ton głosu, publikacja w CMS jednym kliknięciem.",
     "keywords": "AI SEO, generator artykułów SEO, AI do treści, analiza SERP, automatyczna publikacja, WordPress, Drupal, Shopify, ton głosu, audyt SEO, content marketing, generowanie artykułów sztuczną inteligencją, Draft2Live"
   },
   "jsonLd": {
-    "orgDescription": "Platforma AI, która zamienia słowo kluczowe w zoptymalizowany artykuł SEO opublikowany na Twojej stronie — w pełni automatycznie, od początku do końca."
+    "orgDescription": "Platforma AI, która zamienia słowo kluczowe w zoptymalizowany artykuł SEO i publikuje go na Twojej stronie jednym kliknięciem."
   },
   "nav": {
     "ariaLabel": "Główna nawigacja",
@@ -24,12 +24,12 @@
     }
   },
   "hero": {
-    "badge": "5000+ opublikowanych artykułów · 45 języków · WordPress + Drupal + Shopify",
+    "badge": "48 języków · SERP dla 90+ krajów · WordPress + Drupal + Shopify",
     "titleLine1": "Od słowa kluczowego do",
     "titleLine2Prefix": "opublikowanego",
     "titleLine3": "zanim wystygnie kawa.",
     "typingWords": ["artykułu SEO", "wpisu na bloga", "poradnika", "przeglądu", "wpisu Shopify"],
-    "subtitle": "Analiza SERP w Twoim kraju docelowym, pisanie w Twoim stylu, audyt SEO i publikacja jednym kliknięciem w WordPressie, Drupalu lub Shopify Blog — w pełni automatycznie.",
+    "subtitle": "Analiza SERP w Twoim kraju docelowym, pisanie w wybranym przez Ciebie tonie, wynik SEO i publikacja jednym kliknięciem w WordPressie, Drupalu lub Shopify Blog.",
     "searchPlaceholder": "Wpisz słowo kluczowe artykułu...",
     "searchAriaLabel": "Słowo kluczowe artykułu",
     "searchCta": "Napisz artykuł →",
@@ -40,13 +40,13 @@
       "recenzje laptopów 2026",
       "marketing dla SaaS"
     ],
-    "microcopy": "Bez pisania promptów · Bez kopiowania · Do 3 artykułów za darmo",
+    "microcopy": "Bez pisania promptów · Bez kopiowania · Darmowe kredyty na start",
     "videoAriaLabel": "Obejrzyj demo Draft2Live",
     "videoTitle": "Obejrzyj demo",
-    "videoSubtitle": "2 minuty: od słowa kluczowego do opublikowanego artykułu",
+    "videoSubtitle": "Od słowa kluczowego do opublikowanego artykułu",
     "trustStats": [
-      { "value": "5000+", "label": "opublikowanych artykułów" },
-      { "value": "45", "label": "języków z geo-targetingiem" },
+      { "value": "90+", "label": "krajów do analizy SERP" },
+      { "value": "48", "label": "języków dla artykułów" },
       { "value": "3", "label": "CMS: WordPress, Drupal, Shopify" }
     ]
   },
@@ -61,26 +61,26 @@
     "items": [
       {
         "title": "Wpisz słowo kluczowe i kraj",
-        "desc": "Wybierz temat i rynek docelowy. AI pobiera prawdziwe wyniki Google z Twojego konkretnego regionu."
+        "desc": "Wybierz temat i rynek docelowy. Platforma pobiera prawdziwe wyniki Google dla Twojego kraju."
       },
       {
         "title": "Platforma analizuje TOP 10",
-        "desc": "Rozkłada na czynniki strukturę, słowa kluczowe, wolumen i strategię każdego konkurenta."
+        "desc": "Pokazuje słowa kluczowe, wolumen wyszukiwań i luki w treści każdego wyniku z TOP 10."
       },
       {
         "title": "AI pisze w wybranym tonie",
-        "desc": "Wykorzystuje dane SERP, wybrany ton głosu i dokumenty z Bazy wiedzy do napisania artykułu."
+        "desc": "Najpierw zatwierdzasz tytuł i konspekt. Potem AI pisze na podstawie danych SERP, Twojego tonu i dołączonych przez Ciebie dokumentów."
       },
       {
         "title": "Jedno kliknięcie — artykuł na stronie",
-        "desc": "Publikacja w WordPressie, Drupalu lub Shopify Blog. Metatagi, obrazy, teksty alt i linkowanie wewnętrzne dodawane automatycznie."
+        "desc": "Publikacja w WordPressie, Drupalu lub Shopify Blog. Meta description i Schema uzupełniają się automatycznie, a obrazy i linkowanie wewnętrzne dodasz jednym kliknięciem."
       }
     ]
   },
   "features": {
     "header": {
       "badge": "FUNKCJE",
-      "title": "Jeden serwis zamiast pięciu. Każdy na poziomie osobnego produktu.",
+      "title": "Jeden serwis zamiast pięciu narzędzi.",
       "subtitle": "Analiza SERP, copywriting AI, audyt SEO, tłumaczenia i publikacja w jednym oknie."
     },
     "items": [
@@ -88,61 +88,61 @@
         "title": "Analiza SERP dla konkretnego kraju",
         "desc": "Analizuje TOP 10 Google dokładnie w Twoim kraju. Nie ogólne dane — prawdziwi konkurenci na Twoim rynku.",
         "details": [
-          "45 języków z geo-targetingiem",
-          "Struktura i słowa kluczowe każdego konkurenta",
-          "Dane SERP w czasie rzeczywistym"
+          "48 języków, SERP dla 90+ krajów",
+          "Słowa kluczowe i wolumen wyszukiwań każdego konkurenta",
+          "Luki w treści, które możesz wypełnić"
         ],
-        "visual": { "label": "45 języków", "stat": "TOP 10 SERP" }
+        "visual": { "label": "48 języków", "stat": "TOP 10 SERP" }
       },
       {
         "title": "Ton głosu",
-        "desc": "Wybierz ton dla swoich artykułów — formalny, swobodny, autorytatywny lub przyjazny. Ta sama kontrola w każdym planie.",
+        "desc": "Wybierz jeden z 8 tonów — neutralny, przyjazny, ekspercki, perswazyjny i inne — i połącz go ze stylem pisania. Ta sama kontrola w każdym planie.",
         "details": [
-          "Presety: formalny, swobodny, autorytatywny, przyjazny",
+          "8 tonów i 8 stylów pisania",
           "Zmiana tonu dla każdego artykułu",
           "Dostępne w każdym planie"
         ],
-        "visual": { "label": "Twój ton", "stat": "4 presety" }
+        "visual": { "label": "Twój ton", "stat": "8 tonów" }
       },
       {
-        "title": "Audyt SEO przed publikacją",
-        "desc": "Automatyczne sprawdzenie według 8 wskaźników. Artykuł nie zostanie opublikowany, dopóki nie uzyska 85+ punktów.",
+        "title": "Wynik SEO przed publikacją",
+        "desc": "Każdy artykuł jest oceniany w 8 testach, ze wskazówkami, co poprawić przed publikacją.",
         "details": [
-          "Gęstość słów kluczowych",
-          "Czytelność i struktura nagłówków",
-          "Metatagi, teksty alt, linkowanie wewnętrzne"
+          "Słowa kluczowe i struktura nagłówków",
+          "Meta description i czytelność",
+          "Linki, media i FAQ"
         ],
-        "visual": { "label": "85+", "stat": "8 metryk" }
+        "visual": { "label": "Wynik", "stat": "8 testów" }
       },
       {
         "title": "Publikacja w CMS jednym kliknięciem",
-        "desc": "WordPress, Drupal i Shopify Blog. Artykuł trafia na Twoją stronę lub do sklepu wraz z obrazami, metatagami, tekstami alt i linkowaniem wewnętrznym.",
+        "desc": "WordPress, Drupal i Shopify Blog. Artykuł trafia na Twoją stronę lub do sklepu z uzupełnionymi meta description i Schema; obrazy i linkowanie wewnętrzne dodasz jednym kliknięciem.",
         "details": [
-          "Automatyczne metatagi i Schema",
-          "Zoptymalizowane obrazy z tekstem alt",
-          "Linkowanie wewnętrzne"
+          "Automatyczne meta description i Schema",
+          "Obraz wyróżniający z tekstem alt",
+          "Linkowanie wewnętrzne jednym kliknięciem"
         ],
         "visual": { "label": "1 kliknięcie", "stat": "WordPress, Drupal i Shopify" }
       },
       {
         "title": "Baza wiedzy",
-        "desc": "Wgraj dokumenty o swoim produkcie, usługach lub branży. AI używa ich jako źródła faktów — i każdy artykuł staje się dokładny.",
+        "desc": "Wgraj dokumenty o swoim produkcie, usługach lub branży i dołącz je do artykułu. AI bierze z nich fakty zamiast ogólnych fraz.",
         "details": [
-          "Formaty PDF, DOCX, TXT",
-          "Treść indeksowana automatycznie",
-          "Dokładne fakty zamiast ogólnych fraz"
+          "Formaty PDF, DOC, DOCX, TXT, RTF, ODT",
+          "Tekst wyodrębniany automatycznie",
+          "Fakty z Twoich dokumentów, a nie ogólne frazy"
         ],
         "visual": { "label": "Fakty", "stat": "Twoje dokumenty" }
       },
       {
-        "title": "White-label dla agencji",
-        "desc": "Klienci widzą Twoją markę i interfejs. Skaluj treści bez zatrudniania nowych copywriterów.",
+        "title": "Kreator stron z blogiem",
+        "desc": "Nie masz jeszcze strony? AI ją zbuduje: projekt, hosting, własna domena i blog, na którym publikują się Twoje artykuły — a potem udostępni je w kanałach Telegram, LinkedIn, Bluesky i Discord.",
         "details": [
-          "Własna domena i logo",
-          "Osobny ton głosu dla każdego klienta",
-          "Dostęp zespołowy z rolami"
+          "Projekt i hosting w cenie",
+          "Własna domena z SSL",
+          "Autopublikacja w mediach społecznościowych"
         ],
-        "visual": { "label": "Twoja marka", "stat": "White-label" }
+        "visual": { "label": "Twoja strona", "stat": "Kreator stron" }
       }
     ],
     "visuals": {
@@ -170,8 +170,14 @@
       },
       "seoAudit": {
         "metrics": [
-          "Słowa kluczowe", "Nagłówki H1-H6", "Meta description", "Czytelność",
-          "Teksty alt", "Linkowanie wewnętrzne", "Długość treści", "Struktura URL"
+          "Title",
+          "Meta description",
+          "Długość treści",
+          "Nagłówki",
+          "Słowa kluczowe",
+          "Linki i media",
+          "FAQ",
+          "Czytelność"
         ]
       },
       "cmsPublish": {
@@ -193,66 +199,26 @@
       },
       "knowledgeBase": {
         "title": "Wgrane dokumenty",
-        "indexed": "3 dokumenty zindeksowane"
+        "indexed": "Dołączono 3 dokumenty"
       },
-      "whiteLabel": {
-        "title": "Twoja marka",
-        "brands": ["ContentBox Agency", "SEO Masters", "Digital Growth"]
+      "siteBuilder": {
+        "channels": "Telegram · LinkedIn · Bluesky · Discord",
+        "sites": [
+          { "domain": "greenbeancafe.com", "name": "Green Bean Café" },
+          { "domain": "nordicdental.eu", "name": "Nordic Dental" },
+          { "domain": "trailgear.shop", "name": "Trail Gear Shop" }
+        ],
+        "status": "Online",
+        "title": "Twoje strony"
       }
     }
   },
   "metrics": {
     "items": [
-      { "label": "opublikowanych artykułów" },
-      { "label": "aktywnych firm" },
-      { "label": "języków z geo-targetingiem" },
+      { "label": "krajów do analizy SERP" },
+      { "label": "języków dla artykułów" },
+      { "label": "CMS: WordPress, Drupal, Shopify" },
       { "label": "kopiuj-wklej między AI a Twoim CMS" }
-    ]
-  },
-  "testimonials": {
-    "header": {
-      "badge": "OPINIE",
-      "title": "Wyniki, nie obietnice."
-    },
-    "ratingAriaLabel": "Ocena: 5 na 5",
-    "navAriaLabel": "Opinia od {name}",
-    "items": [
-      {
-        "quote": "Wcześniej pisałem 8 artykułów miesięcznie i się wypalałem. Teraz wypuszczam 30+ przez Draft2Live i sprzedaję klientom jako usługę premium. Liczby wreszcie się zgadzają.",
-        "author": "Aleksy Kowalski",
-        "role": "Freelancer SEO, 3 lata doświadczenia",
-        "initials": "AK"
-      },
-      {
-        "quote": "Podłączyliśmy white-label do 12 stron klientów. Klienci są przekonani, że to nasza własna platforma. W pierwszym miesiącu wypuściliśmy 87 artykułów. Wcześniej zajęłoby to kwartał i dwóch dodatkowych copywriterów.",
-        "author": "Nadia Marczewska",
-        "role": "CEO, agencja digital ContentBox",
-        "initials": "NM"
-      },
-      {
-        "quote": "Mam sklep internetowy z meblami. Kiedyś płaciłem copywriterowi €25 za artykuł i czekałem tydzień. Teraz sam piszę 4 artykuły dziennie. Ruch organiczny wzrósł o 40% w 2 miesiące.",
-        "author": "Andrzej Tkaczewski",
-        "role": "Właściciel, MebleCity",
-        "initials": "AT"
-      },
-      {
-        "quote": "Przetłumaczyliśmy bloga na 6 języków w tydzień. Jedno tłumaczenie kosztowało wcześniej €40 i zajmowało 3 dni. Teraz Draft2Live tworzy zlokalizowany artykuł SEO szybciej, niż wystygnie kawa.",
-        "author": "Irena Sawicka",
-        "role": "Head of Content, TravelHub",
-        "initials": "IS"
-      },
-      {
-        "quote": "Jako solo-marketer nie mogłem konkurować z agencjami pod względem objętości treści. Teraz publikuję 15 artykułów miesięcznie. Lead generation z bloga wzrosła o 65%.",
-        "author": "Dymitr Bondarczewski",
-        "role": "Marketing Manager, startup SaaS",
-        "initials": "DB"
-      },
-      {
-        "quote": "Baza wiedzy rozwiązała nasz główny problem. AI zna teraz nasze produkty, ceny i szczegóły techniczne. Artykuły są wreszcie dokładne, a nie ogólne frazy z internetu.",
-        "author": "Helena Szewczyk",
-        "role": "Product Marketing, TechStore",
-        "initials": "HS"
-      }
     ]
   },
   "useCases": {
@@ -263,43 +229,54 @@
     "items": [
       {
         "persona": "Freelancer SEO",
-        "headline": "3× więcej artykułów bez wypalenia",
-        "desc": "Sprzedawaj treści klientom jako usługę premium. 30 artykułów miesięcznie zamiast 8. Liczby wreszcie się zgadzają.",
-        "metrics": ["30+ artykułów/mies.", "Jakość premium", "ROI od pierwszego tygodnia"]
+        "headline": "Więcej artykułów bez wypalenia",
+        "desc": "Sprzedawaj treści klientom jako usługę. Badanie, pisanie i publikacja odbywają się w jednym oknie, więc każdy artykuł zajmuje Ci mniej czasu.",
+        "metrics": [
+          "Do 100 artykułów/mies. w planie Team",
+          "Analiza SERP w cenie",
+          "Publikacja na stronach klientów"
+        ]
       },
       {
         "persona": "Agencja digital",
-        "headline": "White-label pod Twoją marką",
-        "desc": "Podłącz strony klientów, ustaw osobny ton głosu dla każdego. Klienci widzą Twój interfejs. Skaluj bez zatrudniania.",
-        "metrics": ["Do 15 stron", "Dostęp zespołowy", "Twoja marka"]
+        "headline": "Wszystkie strony klientów w jednej przestrzeni roboczej",
+        "desc": "Podłącz strony klientów, wybieraj ton dla każdego artykułu i zaproś zespół do wspólnej przestrzeni roboczej.",
+        "metrics": [
+          "Do 10 stron w planie Team",
+          "Wspólna przestrzeń robocza zespołu",
+          "Ton dla każdego artykułu"
+        ]
       },
       {
         "persona": "Właściciel firmy",
         "headline": "Treści bez copywritera",
-        "desc": "Wpisz słowo kluczowe, otrzymaj opublikowany artykuł. Wiedza SEO niepotrzebna. Ruch organiczny rośnie, gdy Ty zajmujesz się biznesem.",
-        "metrics": ["Bez znajomości SEO", "Automatyczna publikacja", "+40% ruchu"]
+        "desc": "Wpisz słowo kluczowe, zatwierdź konspekt, opublikuj. Wiedza SEO niepotrzebna — badanie wykonuje platforma.",
+        "metrics": [
+          "Bez doświadczenia w SEO",
+          "Publikacja jednym kliknięciem",
+          "Własna strona w pakiecie"
+        ]
       }
     ]
   },
   "priceAnchor": {
     "header": {
       "badge": "PORÓWNANIE KOSZTÓW",
-      "title": "Płacisz €328/mies. za to, co Draft2Live robi za €49."
+      "title": "Osobne narzędzia kosztują €{total}/mies. Draft2Live zapewnia podstawy każdego z nich za €49."
     },
     "totalLabel": "Razem:",
     "perMonth": "/mies.",
     "competitors": [
-      { "name": "Semrush", "desc": "Analiza SERP i badanie słów kluczowych" },
-      { "name": "SurferSEO", "desc": "Ocena SEO i optymalizacja treści" },
-      { "name": "Jasper", "desc": "Generowanie tekstów AI" },
-      { "name": "DeepL Pro", "desc": "Tłumaczenia na inne języki" },
-      { "name": "Wtyczki WP (Yoast, RankMath)", "desc": "Wtyczki SEO i automatyczna publikacja" }
+      { "name": "Semrush SEO", "desc": "Analiza SERP i badanie słów kluczowych" },
+      { "name": "Surfer Discovery", "desc": "Ocena SEO i optymalizacja treści" },
+      { "name": "Jasper Pro", "desc": "Generowanie tekstów AI" }
     ],
     "d2l": {
       "eyebrow": "Draft2Live: wszystko w jednym",
-      "priceSuffix": "/mies. SERP, AI, SEO, CMS, tłumaczenia",
-      "savings": "Oszczędność €279/mies. = €3348 rocznie"
-    }
+      "priceSuffix": "/mies. SERP, AI, wynik SEO, CMS, tłumaczenia",
+      "savings": "Oszczędność €{savings}/mies. = €{yearly} rocznie"
+    },
+    "priceNote": "Miesięczne ceny katalogowe według stanu na wrzesień 2026 r. Jasper rozlicza się w USD ($69), tutaj podano jako ≈ €63."
   },
   "pricing": {
     "header": {
@@ -309,7 +286,7 @@
     "billing": {
       "monthly": "Miesięcznie",
       "annual": "Rocznie",
-      "discount": "-20%",
+      "discount": "-16%",
       "toggleAriaLabel": "Przełącznik planu rozliczeniowego"
     },
     "perMonth": "/mies.",
@@ -318,23 +295,23 @@
       {
         "description": "Wypróbuj bez zobowiązań, bez karty",
         "features": [
-          "Do 3 artykułów miesięcznie",
-          "Publikacja na draft2live.com",
+          "525 kredytów na start",
+          "1 strona w kreatorze stron",
           "3 języki z geo-targetingiem",
           "Analiza TOP 10 SERP",
-          "Audyt SEO według 8 wskaźników"
+          "Wynik SEO w 8 testach"
         ],
         "ctaText": "Zacznij za darmo"
       },
       {
-        "badge": "Najpopularniejszy",
+        "badge": "Polecany",
         "description": "Dla freelancerów, którzy zarabiają na treściach",
         "features": [
           "Do 20 artykułów miesięcznie",
-          "2 strony (WordPress/Drupal/Shopify)",
-          "5 języków z geo-targetingiem",
-          "Metatagi, teksty alt, linkowanie",
-          "3 dokumenty w Bazie wiedzy"
+          "2 podłączone strony (WordPress, Drupal, Shopify)",
+          "5 języków z tłumaczeniem AI",
+          "Badanie SEO i analiza konkurencji",
+          "Obrazy AI, metatagi, linkowanie wewnętrzne"
         ],
         "ctaText": "Wybierz Connect"
       },
@@ -342,11 +319,10 @@
         "description": "Dla agencji i zespołów contentowych",
         "features": [
           "Do 100 artykułów miesięcznie",
-          "5 stron",
-          "45 języków z geo-targetingiem",
-          "Kalendarz treści i dostęp zespołowy",
-          "Dostęp do API",
-          "Priorytetowe wsparcie"
+          "10 podłączonych stron",
+          "Wszystkie 48 języków z tłumaczeniem AI",
+          "Miejsca dla zespołu i wspólna przestrzeń robocza",
+          "Dostęp do API i MCP"
         ],
         "ctaText": "Wybierz Team"
       },
@@ -354,15 +330,15 @@
         "description": "Dla dużych zespołów i agencji",
         "features": [
           "Wszystko z planu Team",
-          "500+ artykułów/mies., niestandardowe kredyty",
-          "White-label + multi-marka, nielimitowane API",
-          "SSO (SAML/OIDC), DPA, SLA 99,9%",
+          "Niestandardowe wolumeny, kredyty i modele",
           "Dedykowany manager sukcesu",
-          "Natywna integracja z Drupalem, opcja on-prem"
+          "Niestandardowe integracje",
+          "SLA i DPA w umowie"
         ],
         "ctaText": "Skontaktuj się z działem sprzedaży"
       }
-    ]
+    ],
+    "note": "Każda wersja językowa artykułu wlicza się do miesięcznego limitu artykułów."
   },
   "faq": {
     "header": {
@@ -370,49 +346,49 @@
       "title": "Odpowiedzi na to, co Cię powstrzymuje."
     },
     "microCta": {
-      "text": "Masz jeszcze pytania? Sprawdź sam — pierwsze 3 artykuły za darmo.",
+      "text": "Masz jeszcze pytania? Sprawdź sam — pierwsze artykuły za darmo.",
       "button": "Zacznij za darmo →"
     },
     "items": [
       {
         "q": "Czym to się różni od ChatGPT?",
-        "a": "ChatGPT generuje tekst od zera bez zrozumienia Twojego rynku. Draft2Live najpierw analizuje TOP 10 Google dokładnie w Twoim kraju, bada strukturę i słowa kluczowe konkurentów, a następnie pisze artykuł w Twoim stylu i publikuje go w CMS z metatagami i obrazami. To nie generator tekstu — to pełny cykl: badanie, pisanie, publikacja.",
-        "aPlain": "ChatGPT generuje tekst od zera bez zrozumienia Twojego rynku. Draft2Live najpierw analizuje TOP 10 Google dokładnie w Twoim kraju, bada strukturę i słowa kluczowe konkurentów, a następnie pisze artykuł w Twoim stylu i publikuje go w CMS z metatagami i obrazami. To nie generator tekstu — to pełny cykl: badanie, pisanie, publikacja."
+        "a": "ChatGPT generuje tekst od zera bez kontekstu Twojego rynku. Draft2Live najpierw analizuje TOP 10 Google w Twoim kraju i słowa kluczowe, na które pozycjonują się konkurenci, daje Ci zatwierdzić konspekt, a następnie pisze w wybranym przez Ciebie tonie i publikuje w Twoim CMS jednym kliknięciem. To nie generator tekstu — to pełny cykl: badanie, pisanie, publikacja.",
+        "aPlain": "ChatGPT generuje tekst od zera bez kontekstu Twojego rynku. Draft2Live najpierw analizuje TOP 10 Google w Twoim kraju i słowa kluczowe, na które pozycjonują się konkurenci, daje Ci zatwierdzić konspekt, a następnie pisze w wybranym przez Ciebie tonie i publikuje w Twoim CMS jednym kliknięciem. To nie generator tekstu — to pełny cykl: badanie, pisanie, publikacja."
       },
       {
         "q": "Czy Google karze za treści AI?",
-        "a": "Nie. Google's Helpful Content Update (marzec 2024) jasno stwierdza: liczy się jakość, nie pochodzenie. Według Ahrefs 86,5% zoptymalizowanych pod intencję SERP treści AI z 6,8 tys. artykułów skutecznie rankuje w Google. Draft2Live audytuje każdy artykuł według 8 metryk SEO (intencja, czytelność, meta, struktura) i nie publikuje go, dopóki nie uzyska 85+ punktów. Edytujesz i zatwierdzasz przed publikacją. Z 5000+ opublikowanych przez nas artykułów żaden klient nie otrzymał kary.",
-        "aPlain": "Nie. Google's Helpful Content Update (marzec 2024) jasno stwierdza: liczy się jakość, nie pochodzenie. Według Ahrefs 86,5% zoptymalizowanych pod intencję SERP treści AI z 6,8 tys. artykułów skutecznie rankuje w Google. Draft2Live audytuje każdy artykuł według 8 metryk SEO (intencja, czytelność, meta, struktura) i nie publikuje go, dopóki nie uzyska 85+ punktów. Edytujesz i zatwierdzasz przed publikacją. Z 5000+ opublikowanych przez nas artykułów żaden klient nie otrzymał kary."
+        "a": "Nie. Wytyczne Google są jednoznaczne: nagradzane są pomocne, wysokiej jakości treści, niezależnie od sposobu ich powstania. Draft2Live ocenia każdy artykuł w 8 testach SEO — słowa kluczowe, nagłówki, meta description, czytelność i inne — i pokazuje, co poprawić. Edytujesz i zatwierdzasz każdy artykuł, zanim trafi na stronę.",
+        "aPlain": "Nie. Wytyczne Google są jednoznaczne: nagradzane są pomocne, wysokiej jakości treści, niezależnie od sposobu ich powstania. Draft2Live ocenia każdy artykuł w 8 testach SEO — słowa kluczowe, nagłówki, meta description, czytelność i inne — i pokazuje, co poprawić. Edytujesz i zatwierdzasz każdy artykuł, zanim trafi na stronę."
       },
       {
         "q": "Ile naprawdę zajmuje jeden artykuł?",
-        "a": "Większość artykułów publikuje się szybciej, niż wystygnie Twoja kawa. Analiza SERP — 2–3 minuty, generowanie — 10–12, publikacja w CMS — sekundy. Stawiasz słowo kluczowe w kolejce i jesteś wolny — niczego nie trzeba pilnować.",
-        "aPlain": "Większość artykułów publikuje się szybciej, niż wystygnie Twoja kawa. Analiza SERP — 2–3 minuty, generowanie — 10–12, publikacja w CMS — sekundy. Stawiasz słowo kluczowe w kolejce i jesteś wolny — niczego nie trzeba pilnować."
+        "a": "Znalezienie tematów i analiza konkurencji zajmują mniej niż minutę, przygotowanie konspektu — około dwóch minut, pisanie — zwykle 3–5 minut. Publikacja w CMS — sekundy. Włącz autopilota, a kroki wykonają się same, dopóki karta jest otwarta.",
+        "aPlain": "Znalezienie tematów i analiza konkurencji zajmują mniej niż minutę, przygotowanie konspektu — około dwóch minut, pisanie — zwykle 3–5 minut. Publikacja w CMS — sekundy. Włącz autopilota, a kroki wykonają się same, dopóki karta jest otwarta."
       },
       {
         "q": "Czym jest Baza wiedzy i po co mi ona?",
-        "a": "To Twoja biblioteka dokumentów: opisy produktów, cenniki, specyfikacje techniczne, FAQ. AI pobiera z niej dane podczas pisania, dzięki czemu artykuły zawierają dokładne fakty, ceny i szczegóły specyficzne dla Twojego biznesu — a nie ogólne frazy.",
-        "aPlain": "To Twoja biblioteka dokumentów: opisy produktów, cenniki, specyfikacje techniczne, FAQ. AI pobiera z niej dane podczas pisania, dzięki czemu artykuły zawierają dokładne fakty, ceny i szczegóły specyficzne dla Twojego biznesu — a nie ogólne frazy."
+        "a": "To Twoja biblioteka dokumentów: opisy produktów, cenniki, specyfikacje techniczne, FAQ. Dołącz dokumenty do artykułu, a AI weźmie z nich fakty, dzięki czemu tekst zawiera szczegóły specyficzne dla Twojego biznesu — a nie ogólne frazy.",
+        "aPlain": "To Twoja biblioteka dokumentów: opisy produktów, cenniki, specyfikacje techniczne, FAQ. Dołącz dokumenty do artykułu, a AI weźmie z nich fakty, dzięki czemu tekst zawiera szczegóły specyficzne dla Twojego biznesu — a nie ogólne frazy."
       },
       {
         "q": "Czy nadaje się dla agencji z wieloma klientami?",
-        "a": "Tak, dokładnie po to są plany Team i Enterprise. Podłączasz wiele stron, ustawiasz osobny ton głosu dla każdego klienta, a z white-label klienci nawet nie wiedzą, że używasz Draft2Live.",
-        "aPlain": "Tak, dokładnie po to są plany Team i Enterprise. Podłączasz wiele stron, ustawiasz osobny ton głosu dla każdego klienta, a z white-label klienci nawet nie wiedzą, że używasz Draft2Live."
+        "a": "Tak — dokładnie po to jest plan Team: do 10 podłączonych stron, wspólna przestrzeń robocza zespołu i ton wybierany dla każdego artykułu. Enterprise dodaje niestandardowe wolumeny i warunki umowne.",
+        "aPlain": "Tak — dokładnie po to jest plan Team: do 10 podłączonych stron, wspólna przestrzeń robocza zespołu i ton wybierany dla każdego artykułu. Enterprise dodaje niestandardowe wolumeny i warunki umowne."
       },
       {
         "q": "A jeśli mi nie podejdzie?",
-        "a": "Zacznij od planu darmowego: do 3 artykułów miesięcznie z pełną analizą SERP i audytem SEO, bez karty. Plany płatne mają 30-dniową gwarancję zwrotu pieniędzy. Subskrypcję możesz anulować jednym kliknięciem w każdej chwili.",
-        "aPlain": "Zacznij od planu darmowego: do 3 artykułów miesięcznie z pełną analizą SERP i audytem SEO, bez karty. Plany płatne mają 30-dniową gwarancję zwrotu pieniędzy. Subskrypcję możesz anulować jednym kliknięciem w każdej chwili."
+        "a": "Zacznij od planu darmowego: darmowe kredyty, by wypróbować analizę SERP, pisanie i wynik SEO — bez karty. Płatną subskrypcję możesz anulować w każdej chwili w sekcji Plan; pozostaje aktywna do końca opłaconego okresu. Konsumentom przysługuje też ustawowe 14-dniowe prawo odstąpienia od umowy opisane w naszym Regulaminie.",
+        "aPlain": "Zacznij od planu darmowego: darmowe kredyty, by wypróbować analizę SERP, pisanie i wynik SEO — bez karty. Płatną subskrypcję możesz anulować w każdej chwili w sekcji Plan; pozostaje aktywna do końca opłaconego okresu. Konsumentom przysługuje też ustawowe 14-dniowe prawo odstąpienia od umowy opisane w naszym Regulaminie."
       }
     ]
   },
   "cta": {
     "titlePart1": "Twoi konkurenci już publikują.",
     "titlePart2": "A Ty?",
-    "subtitle": "Do 3 artykułów za darmo. Bez karty. Gotowy URL — szybciej, niż wystygnie kawa.",
+    "subtitle": "Darmowe kredyty na start. Bez karty.",
     "ctaPrimary": "Zacznij za darmo",
     "ctaSecondary": "Obejrzyj demo",
-    "trustLine": "WordPress + Drupal + Shopify · 45 języków z geo-targetingiem · 30-dniowa gwarancja zwrotu pieniędzy",
+    "trustLine": "WordPress + Drupal + Shopify · 48 języków · Anulowanie w każdej chwili",
     "imageAlt": "Draft2Live — publikacja AI bezpośrednio do CMS"
   },
   "footer": {
